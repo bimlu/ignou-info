@@ -74,3 +74,67 @@
 | 9   | INEP-MUMBAI        | 72      | REGINAL DIRECTOR IGNOU NAVY RECOG. REG. CENTRE HQ WESTERN NAVAL COMMAND SHAHID BHAGAT SINGH MARG MUMBAI – 400 023 MAHARASHTRA 022-22752245 022-22665458 rcnavy72@ignou.ac.in                                             | HQ WESTERN NAVAL COMMAND  |
 | 10  | INEP-VISAKHAPATNAM | 73      | REGIONAL DIRECTOR IGNOU NAVY RECOG. REG. CENTRE INEP REGIONAL CENTRE-73 NCS COMPLEX NAUSENABAUGH POST: GANDHIGRAM VISAKHAPATNAM -530005 ANDHRA PRADEH 0891-2812669 0891-2515834 rcnavy73@ignou.ac.in                     | HQ EASTREN NAVAL COMMAND  |
 | 11  | INEP-KOCHI         | 74      | REGIONALDIRECTOR IGNOUY NAVY RECOG. REG. CENTRE NAVAL BASE HQ SOUTHERN NAVAL COMMAND KOCHI – 682 004 KERALA 0484-266210,2662515 0484-266194 rcnavy74@ignou.ac.in                                                         | HQ SOUTHERN NAVAL COMMAND |
+
+## List of Codes
+
+#### State Code
+
+| Code | Description                            |
+| ---- | -------------------------------------- |
+| 01   | Andhra Pradesh                         |
+| 02   | Andaman & Nicobar Islands (UT)         |
+| 03   | Arunachal Pradesh                      |
+| 04   | Assam                                  |
+| 05   | Bihar                                  |
+| 06   | Chandigarh (UT)                        |
+| 07   | Delhi                                  |
+| 08   | Goa                                    |
+| 09   | Gujarat                                |
+| 10   | Haryana                                |
+| 11   | Himachal Pradesh                       |
+| 12   | Jammu & Kashmir                        |
+| 13   | Karnataka                              |
+| 14   | Kerala                                 |
+| 15   | Madhya Pradesh                         |
+| 16   | Maharashtra                            |
+| 17   | Manipur                                |
+| 18   | Meghalaya                              |
+| 19   | Mizoram                                |
+| 20   | Nagaland                               |
+| 21   | Odisha                                 |
+| 22   | Punjab                                 |
+| 23   | Rajasthan                              |
+| 24   | Sikkim                                 |
+| 25   | TamilNadu                              |
+| 26   | Tripura                                |
+| 27   | Uttar Pradesh                          |
+| 28   | West Bengal                            |
+| 29   | Dadra & Nagar Haveli, Daman & Diu (UT) |
+| 30   | Lakshadweep (UT)                       |
+| 31   | Pondicherry (UT)                       |
+| 32   | C/o 99APO                              |
+| 33   | Learners Abroad                        |
+| 34   | Chattisgarh                            |
+| 35   | Jharkhand                              |
+| 36   | Uttarakhand                            |
+| 37   | Telangana                              |
+
+#### Educational Qualification Code
+
+| Code | Description                                  |
+| ---- | -------------------------------------------- |
+| 000  | Below Matriculation, SSC/No Formal Education |
+| 001  | Matriculation/SSC                            |
+| 002  | 10+2 or Equivalent                           |
+| 003  | Diploma in Engineering                       |
+| 004  | Graduation in Engineering                    |
+| 005  | Graduation or Equivalent                     |
+| 006  | Post Graduation or Equivalent                |
+| 007  | Doctoral or Equivalent                       |
+| 008  | BPP from IGNOU                               |
+| 009  | Bachelor of Library Information Science      |
+| 010  | Master of Library & Information Science      |
+
+#### List of Board Codes
+
+**(FOR 10 +2) with pass in minimum five core subjects\***
