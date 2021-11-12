@@ -77,7 +77,7 @@
 
 ## List of Codes
 
-#### State Code
+#### State Codes
 
 | Code | Description                            |
 | ---- | -------------------------------------- |
@@ -119,7 +119,7 @@
 | 36   | Uttarakhand                            |
 | 37   | Telangana                              |
 
-#### Educational Qualification Code
+#### Educational Qualification Codes
 
 | Code | Description                                  |
 | ---- | -------------------------------------------- |
@@ -137,4 +137,81 @@
 
 #### List of Board Codes
 
-**(FOR 10 +2) with pass in minimum five core subjects\***
+**(FOR 10 +2) with pass in minimum five core subjects**
+
+| Sl. | Code of Board | Board (Abbr) | Year from which 10+2 in effect | Name of the Board                                                        |
+| --- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------------------------ |
+| 1   | 0101          | ABIE         | ALWAYS                         | Board of Intermediate Education, Andhra Pradesh                          |
+| 2   | 0401          | AHSL         | 1986                           | Assam Higher Secondary Education Council                                 |
+| 3   | 0501          | BIEC         | ALWAYS                         | Bihar Intermediate Education Council                                     |
+| 4   | 0701          | CBSE         | 1979                           | Central Board of Secondary Education, New Delhi                          |
+| 5   | 0702          | ICSE         | 1979                           | Council for the Indian School (Certificate Exam), New Delhi              |
+| 6   | 0703          | NOS/NIOS     | 1991                           | National Insititute of Open Schooling, Delhi (Passed with five subjects) |
+| 7   | 0801          | GBSE         | 1978                           | Goa, Daman & Diu Board of Sec. & Higher Sec. Ed.                         |
+| 8   | 0901          | GSEB         | 1978                           | Gujarat Secondary Education Board                                        |
+| 9   | 1001          | HBSE         | 1987                           | Haryana Board of School Education                                        |
+| 10  | 1101          | HPBE         | 1988                           | Himachal Pradesh Board of School Education                               |
+| 11  | 1201          | JKSS         | 1980                           | J&K State Board of School Education (Summer)                             |
+| 12  | 1202          | JKSW         | 1980                           | J&K State Board of School Education (Winter)                             |
+| 13  | 1301          | KBPE         | 1971                           | Board of Pre-University Education, Karnataka                             |
+| 14  | 1401          | KU           | 1966                           | University of Kerala                                                     |
+| 15  | 1501          | BSMP         | 1988-89                        | Board of Secondary Education, MP                                         |
+| 16  | 1601          | MSBE         | 1978                           | Maharashtra State Board of Secondary Education & Higher Secondary Board  |
+| 17  | 1701          | MBSE         | 1980                           | Board of Secondary Education, Manipur                                    |
+| 18  | 1901          | MZSE         | 1980                           | Mizoram Board of Secondary Education                                     |
+| 19  | 2001          | NBSE         | 1980                           | Nagaland Board of Secondary Education                                    |
+| 20  | 2101          | CHSE         | 1980                           | Council of Higher Secondary Education, Orissa                            |
+| 21  | 2201          | PSEB         | 1988                           | Punjab School Education Board                                            |
+| 22  | 2301          | RBSE         | 1986                           | Rajasthan Board of Secondary Education                                   |
+| 23  | 2501          | TNSB         | 1978                           | Board of Secondary &Higher Secondary Exam., Tamil Nadu                   |
+| 24  | 2601          | TBSE         | –                              | Tripura Board of Secondary Education                                     |
+| 25  | 2701          | BHSI         | ALWAYS                         | Board of High School & Intermediate Edu., U.P.                           |
+| 26  | 2802          | WBSE         | 1978                           | West Bengal Council of Higher Secondary Education                        |
+| 27  | 3601          | JAC          | 2006                           | Jharkhand Academic Council, Ranchi                                       |
+| 28  | 8888          | DDDD         | –                              | A recognised three/two year Diploma/Certificate after 10th Class         |
+| 29  | 9999          | XXXX         | –                              | Not listed in this list.                                                 |
+
+_Candidates passed with four core subjects, in addition to Socially Useful Productive Work & Community Service (SUPW), need to pursue one Sr. Secondary level course from NIOS/SOSs in order to fulfil the condition of passing in minimum five core subjects._
+
+**(FOR 10+2 Vocational Stream)**
+
+| Sl. | Code of Board | Board (Abbr) | Year from which 10+2 in effect | Name of the Board                    |
+| --- | ------------- | ------------ | ------------------------------ | ------------------------------------ |
+| 1   | 1901          | MZSE         | 2001                           | Mizoram Board of Secondary Education |
+
+#### List of Unrecognized School Boards
+
+**Examinations conducted by the following Boards are not accepted for higher studies in IGNOU.**
+
+| Sl. | Name of Board                                                                                                                                                                                                                                                                                                    | Remarks                                                |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1   | Board of Higher Secondary Education, Delhi                                                                                                                                                                                                                                                                       | -                                                      |
+| 2   | Indian Council of Secondary Education, India Fatehullaganj, NH-74, Thakurdwara, Muradabad, UP                                                                                                                                                                                                                    | Do not mistake with ICSE, New Delhi                    |
+| 3   | Indian Council of Secondary Education, India Village: Haldua Shahu, P.O. Shivrajpur Patti, Jaspur-244712, Uttarakhand                                                                                                                                                                                            | Do not mistake with ICSE, New Delhi                    |
+| 4   | All India Board for Education Training, Delhi (Operated by Dr. Ambedkar Chintan Samajik Sodh Sansthan, Ward No. 23 Eidgah Mohalla, P.O. Dehri-on-Sone, District Rohtas, Bihar) OR All India Board of Secondary Education, Delhi. Bhawan No. 700, Gali No. 17 Gopalpur, Vill Timarpur, P.O. Azadpur, Delhi-110009 |
+| 5   | Intermediate Council for Open Education, Jalandhar, Punjab                                                                                                                                                                                                                                                       |
+| 6   | All India Council for Open Education, New Delhi                                                                                                                                                                                                                                                                  |
+| 7   | Board of Adult Education & Training, Delhi Office: 1 Aliganj, Kasturba Nagar, Kotla Mubarakpur, New Delhi-110003. Campus: R.X. 295, Brahampuri, Nangal Raya Rly, Crossing, Pankha Road, New Delhi                                                                                                                |
+| 8   | Central Board of Higher Education, East Patel Nagar, New Delhi                                                                                                                                                                                                                                                   |
+| 9   | Central Board of Higher Education, Uttam Nagar, New Delhi                                                                                                                                                                                                                                                        |
+| 10  | Gurukul Vishvavidyalaya, Vrindaban (Mathura) Gurukul Complex, Village Ranchi Bangar, P.O. Mathura District Mathura, Uttar Pradesh                                                                                                                                                                                |
+| 11  | Council of Secondary Education, Mohali, Punjab                                                                                                                                                                                                                                                                   |
+| 12  | Mahashakti Sanskrit Vidyapeeth, Karn Part, Delhi-110041                                                                                                                                                                                                                                                          |
+| 13  | Council for the Indian Certificate Examination, New Delhi                                                                                                                                                                                                                                                        | Not ICSE                                               |
+| 14  | Bhartiya Shiksha Parishad, Uttar Pradesh, Lucknow-227105\*\*                                                                                                                                                                                                                                                     |
+| 15  | Board of Secondary Sanskrit Education, Uttar Pradesh, Lucknow                                                                                                                                                                                                                                                    |
+| 16  | The Central Board of Higher Education, New Delhi                                                                                                                                                                                                                                                                 |
+| 17  | Dr. Ramgopalacharya Sanskrit Mahavidalaya, Nayabas, Etah, Uttar Pradesh                                                                                                                                                                                                                                          |
+| 18  | Board of Secondary Education, Madhya Bharat, Gwalior                                                                                                                                                                                                                                                             |
+| 19  | Board of Secondary, Higher Secondary & Vocational Education, Mangal Bazar Road, Laxmi Nagar, Delhi                                                                                                                                                                                                               |
+| 20  | Mahatma Gandhi Secondary and Higher Secondary Education Board, Delhi                                                                                                                                                                                                                                             |
+| 21  | Board of Secondary and Higher Secondary Open Education, West Bengal                                                                                                                                                                                                                                              |
+| 22  | The Council of Basic and Technical Education, Ludhiana                                                                                                                                                                                                                                                           |
+| 23  | Madhyamik Shiksha Parishad, Gwalior, M.P.                                                                                                                                                                                                                                                                        |
+| 24  | Central Board of Education, Ajmer                                                                                                                                                                                                                                                                                |
+| 25  | Council of Higher Secondary Education, Delhi                                                                                                                                                                                                                                                                     |
+| 26  | Council of Higher and Senior Secondary Education, Delhi                                                                                                                                                                                                                                                          |
+| 27  | Delhi Board of Senior Secondary Education                                                                                                                                                                                                                                                                        |
+| 28  | Boad of Technical and Secondary Education, Delhi                                                                                                                                                                                                                                                                 | www.technicalboard.org, http://www.technicalboard.org. |
+| 29  | Indian Council of Secondary Education, India (Uttar Pradesh) OR Bhartiya Madhyamik Shiksha Parishad, Bharat (Uttar Pradesh)                                                                                                                                                                                      |
+| 30  | Board of Youth Education in India                                                                                                                                                                                                                                                                                |
