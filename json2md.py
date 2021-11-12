@@ -8,7 +8,11 @@ def json2md(in_file_name, out_file_name):
     in_data = json.loads(json_data)
 
     with open(out_file_name, 'w') as out_file:
-      out_file.write('| Sl. | Regional Centre | RC Code | Address | Jurisdiction |' + '\n')
+      if 'army' in in_file_name:
+        out_file.write('| Sl. | Regional Centre | RC Code | Address | Operational Area |' + '\n')
+      else:
+        out_file.write('| Sl. | Regional Centre | RC Code | Address | Jurisdiction |' + '\n')
+
       out_file.write('| --- | --------------- | ------- | ------- | ------------ |' + '\n')
       count = 1
       for (rc_name, rc_code, rc_address, rc_juridiction) in in_data:
@@ -20,4 +24,5 @@ def json2md(in_file_name, out_file_name):
         out_file.write('|' + '\n')
         count += 1
 
-json2md('rc.json', 'rc.md')
+# json2md('rc.json', 'rc.md')
+json2md('rc_army.json', 'rc_army.md')
