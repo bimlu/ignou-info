@@ -177,37 +177,42 @@ IGNOU has a multitier system of evaluation.
    and seminar/ workshops/extended contact programmes, etc.
 3. Term-End Examinations (TEE).
 4. Project / Term-end Practical examination.
-   The evaluation of learners depends upon various instructional activities undertaken by them. A learner has to
-   write assignment responses compulsorily before taking Term-End Examinations from time to time to complete an
-   academic programme. A learner has to submit Tutor Marked Assignments (TMA) responses to the Coordinator
-   of the Study Centre to which s/he is attached. **Term-end examination is conducted at various examination centres spread all over the country and abroad in June and December every year.**
 
-   _table here_
+The evaluation of learners depends upon various instructional activities undertaken by them. A learner has to
+write assignment responses compulsorily before taking Term-End Examinations from time to time to complete an
+academic programme. A learner has to submit Tutor Marked Assignments (TMA) responses to the Coordinator
+of the Study Centre to which s/he is attached. **Term-end examination is conducted at various examination centres spread all over the country and abroad in June and December every year.**
 
-   <!-- IGNOU uses the following system of “Grading” for evaluating learners' achievement
-   Letter Grade Qualitative Level Point Grade
-   A Excellent 5
-   B Very Good 4
-   C Good 3
-   D Average 2
-   E Unsatisfactory 1
-   For Bachelors’ and Masters’ degree programmes, normally the system of numerical marking is followed, and the
-   marks secured in assignments, TE Exams, etc. are later converted into grades as per the five-point grading scale
-   given above. However, if required by the learner, the university provides numerical marks and division (I, II or
-   Pass).
-   IGNOU uses 10-Point Grading System for evaluating learners’ achievement for Bachelor Degree
-   Programmes under CBCS, as under:
-   12 IGNOU Common Prospectus-July 202110-Point Grading System of IGNOU as per UGC-CBCS Guidelines
-   Letter Grade Numerical Grade Percentage
-   O (Outstanding) 10 >85
-   A+ (Excellent) 9 > 75 to < 85
-   A (Very Good) 8 > 65 to < 75
-   B+ (Good) 7 > 55 to < 65
-   B (Above Average) 6 > 50 to < 55
-   C (Average) 5 > 40 to < 50
-   D (Pass) 4 > 35 to < 40
-   F (Fail) 0 < 35
-   Ab (Absent) 0 Absent -->
+> IGNOU uses the following system of “Grading” for evaluating learners' achievement
+
+| Letter Grade | Qualitative Level | Point Grade |
+| :----------: | :---------------: | :---------: |
+|      A       |     Excellent     |      5      |
+|      B       |     Very Good     |      4      |
+|      C       |       Good        |      3      |
+|      D       |      Average      |      2      |
+|      E       |  Unsatisfactory   |      1      |
+
+For Bachelors’ and Masters’ degree programmes, normally the system of numerical marking is followed, and the
+marks secured in assignments, TE Exams, etc. are later converted into grades as per the five-point grading scale
+given above. However, if required by the learner, the university provides numerical marks and division (I, II or
+Pass).
+IGNOU uses 10-Point Grading System for evaluating learners’ achievement for Bachelor Degree
+Programmes under CBCS, as under:
+
+> 10-Point Grading System of IGNOU as per UGC-CBCS Guidelines
+
+| Letter Grade      | Numerical Grade |      Percentage |
+| :---------------- | :-------------: | --------------: |
+| O (Outstanding)   |       10        |         &ge; 85 |
+| A+ (Excellent)    |        9        | &ge; 75 to < 85 |
+| A (Very Good)     |        8        | &ge; 65 to < 75 |
+| B+ (Good)         |        7        | &ge; 55 to < 65 |
+| B (Above Average) |        6        | &ge; 50 to < 55 |
+| C (Average)       |        5        | &ge; 40 to < 50 |
+| D (Pass)          |        4        | &ge; 35 to < 40 |
+| F (Fail)          |        0        |            < 35 |
+| Ab (Absent)       |        0        |          Absent |
 
 ## Term-End Examination and Payment of Examination Fee
 
@@ -229,28 +234,21 @@ The learners are required to fill in the Examination form to appear in the TEE e
 (June/ December) a learner has to apply afresh. The Examination Forms are accepted online only as per the
 schedule given below.
 
-_table here_
+> Dates for submission of Examination Form
 
-<!-- Dates for submission of Examination Form
-For June TEE Late Fee For December TEE Late Fee
-1 st March to 31 st March NIL 1 st September to 30 th September NIL
-1 April to 15 April Rs.1000/- (The 1 October to 15 October Rs. 1000/- (The
-st
-th
-st
-th
-exam centre will exam centre will
-be the city where be the city where
-RC is located) RC is located)
-Please note that the dates mentioned above are subject to change. Please check the actual dates on
-the University website.
-Examination fee and Mode of Payment
-Examination Fee
-@ 200 per theory course
-Mode of Payment
-Credit Card/Debit Card/Net Banking
-@ 200 per practical course
-Examination fee once paid is neither refundable nor adjustable even if the learner fails to appear in the examination. -->
+| For June TEE            | Late Fee                                                         | For December TEE                | Late Fee                                                          |
+| :---------------------- | :--------------------------------------------------------------- | :------------------------------ | :---------------------------------------------------------------- |
+| 1st March to 31st March | NIL                                                              | 1st September to 30th September | NIL                                                               |
+| 1st April to 15th April | Rs.1000/- (The exam centre will be the city where RC is located) | 1st October to 15th October     | Rs. 1000/- (The exam centre will be the city where RC is located) |
+
+**Please note that the dates mentioned above are subject to change. Please check the actual dates on the University website.**
+
+> Examination fee and Mode of Payment
+
+| Examination Fee            | Mode of Payment                    |
+| :------------------------- | :--------------------------------- |
+| @ 200 per theory course    | Credit Card/Debit Card/Net Banking |
+| @ 200 per practical course | Credit Card/Debit Card/Net Banking |
 
 **Hall Ticket for Term End Examination**
 
@@ -353,18 +351,18 @@ are as under:
    Course indicating the score obtained in continuous/term-end assessment and credits earned.
 
 10. The fee chargeable under the Scheme shall be as under:
-    _table here_
-    <!-- Credit weightage of each course
-        Up to 4 credits
-        Above 4 credits
-        Course Fee
-        Rs.1000/-
-        Rs.2000/ - -->
+
+    | Credit weightage of each course | Course Fee |
+    | :------------------------------ | :--------- |
+    | Up to 4 credits                 | Rs.1000/-  |
+    | Above 4 credits                 | Rs.2000/ - |
+
     The fee shall be calculated per course and not on thebasis of total number of credits taken. The Course Fee
     shall be subject to revision and shall be linked with the revision of Programme fee. In addition to the course fee,
     Registration fee as decided by the University from time shall be chargeable. Fee once paid shall be non-
     refundable or non-adjustable. Examination fee, as notified by the University from time to time, shall be charged
     over and above the course fee and registration fee.
+
 11. Candidates shall be allowed to seek transfer of credits earned under the Scheme by taking admission in a
     Programme of IGNOU subject to the following conditions:
 
