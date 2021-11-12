@@ -3,7 +3,7 @@
 ## Educational Qualifications Awarded By Private Institutions
 
 Any educational qualification awarded by the Private Universities established under the provisions of
-the **Chhattisgarh NijiK shetra Vishw avidyalaya (SthapanaAur Viniyam an), Adhiniyam , 2002**
+the **Chhattisgarh NijiK shetra Vishw avidyalaya (Sthapana Aur Viniyam an), Adhiniyam , 2002**
 are non-existent and cannot be considered for admission to any Academic Programme in IGNOU.
 
 ## Validity of Degree for Admission
