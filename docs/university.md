@@ -88,9 +88,7 @@ through Gyan Darshan.
 
 1. Defining Credit in ODL
    The University follows the ‘Credit System’ for most of its programmes. Each credit in our system is equivalent
-   to 30 hours of learner study comprisingall learning activities (i.e., reading and comprehending
-   10 IGNOU Common Prospectus-July 2021b)
-   the print material, listening to audio, watching video, attending counselling sessions, teleconference and
+   to 30 hours of learner study comprisingall learning activities (i.e., reading and comprehending the print material, listening to audio, watching video, attending counselling sessions, teleconference and
    writing assignment responses). Thus, a 4-credit course involves 120 hours of study and a 6-credit course
    involves 180 hours of study. This helps the learner to know the academic effort he/she has to put in, to
    successfully complete a course. Completion of an academic programme (Degree or Diploma) requires
@@ -315,7 +313,6 @@ education loan applications to banks anytime, anywhere through the Portal. The p
 being maintained by NSDL e-Governance Infrastructure Limited.
 Nearly 40 Banks have registered for over **70 Educational Loan Schemes** on the Vidya Lakshmi Portal and
 integrated their system with the Portal for providing loan processing status to students.
-14 IGNOU Common Prospectus-July 2021
 
 ## Course-wise Registration and Certification Scheme (CRCS)
 
