@@ -1,12 +1,12 @@
-![logo](_media/icon.svg)
+![logo](_media/icon.png)
 
-# docsify <small>4.12.1</small>
+# info.ignouwala.com <small>0.0.1</small>
 
-> A magical documentation site generator.
+> IGNOU Information and FAQs.
 
 - Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Mobile friendly
+- Up to date
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[GitHub](https://github.com/bimlu/ignou-info/)
+[Getting Started](#infoignouwalacom)
