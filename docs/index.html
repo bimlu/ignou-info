@@ -33,6 +33,39 @@
       nav.app-nav li ul {
         min-width: 100px;
       }
+      .markdown-section {
+        max-width: 80%;
+      }
+      .sidebar-toggle {
+        position: fixed;
+        width: 64px;
+        height: 64px;
+        left: auto;
+        right: 32px;
+        bottom: 24px;
+        background-color: rgba(51, 35, 35, 0.7);
+        border-radius: 100%;
+        padding: 24px;
+        margin: 8px;
+      }
+      @media screen and (max-width: 768px) {
+        .sidebar-toggle {
+          padding: 24px;
+          margin: 8px;
+          right: 10px;
+          bottom: 16px;
+        }
+        .markdown-section {
+          max-width: 100%;
+        }
+      }
+      body.close .sidebar-toggle {
+        background-color: hsla(0, 17%, 24%, 0.7);
+        transition: background-color 1s;
+        width: 64px;
+        padding: 24px;
+        margin: 8px;
+      }
     </style>
   </head>
 
@@ -76,7 +109,7 @@
           host: "//matomo.thunderwave.de",
           id: 6,
         },
-        name: "docsify",
+        name: "info.ignouwala",
         nameLink: {
           "/es/": "#/es/",
           "/de-de/": "#/de-de/",
