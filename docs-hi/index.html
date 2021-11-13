@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>info.ignouwala.com</title>
+    <link rel="icon" href="_media/favicon.ico?v=2" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta
+      name="keywords"
+      content="ignou,ignouwala,bca,mca,bsc,bag,bcom,mcom,bts,bcs-11,feg-02,ignou help,ignou assignments guru,ignou exams,ignou assignments,ignou solved assignments,ignou re-registration,ignou addmission,ignou common prospectus,"
+    />
+    <meta name="description" content="IGNOU Online Documentation." />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+      title="vue"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"
+      title="dark"
+      disabled
+    />
+    <style>
+      nav.app-nav li ul {
+        min-width: 100px;
+      }
+      .markdown-section {
+        max-width: 80%;
+      }
+      .sidebar-toggle {
+        position: fixed;
+        width: 64px;
+        height: 64px;
+        left: auto;
+        right: 32px;
+        bottom: 24px;
+        background-color: rgba(51, 35, 35, 0.7);
+        border-radius: 100%;
+        padding: 24px;
+        margin: 8px;
+      }
+      @media screen and (max-width: 768px) {
+        .sidebar-toggle {
+          padding: 24px;
+          margin: 8px;
+          right: 10px;
+          bottom: 16px;
+        }
+        .markdown-section {
+          max-width: 100%;
+        }
+      }
+      body.close .sidebar-toggle {
+        background-color: hsla(0, 17%, 24%, 0.7);
+        transition: background-color 1s;
+        width: 64px;
+        padding: 24px;
+        margin: 8px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="app">Loading ...</div>
+    <script>
+      // Set html "lang" attribute based on URL
+      var lang = location.hash.match(/#\/(hi|ds)\//);
+
+      if (lang) {
+        document.documentElement.setAttribute("lang", lang[1]);
+      }
+
+      // Docsify configuration
+      window.$docsify = {
+        alias: {
+          ".*?/changelog":
+            "https://raw.githubusercontent.com/bimlu/ignou-info/master/CHANGELOG.md",
+          "/.*/_navbar.md": "/_navbar.md",
+          "/hi/(.*)":
+            "https://raw.githubusercontent.com/bimlu/ignou-info/docs-hi/master/$1",
+          "/ds/(.*)":
+            "https://raw.githubusercontent.com/bimlu/ignou-info/docs-ds/master/$1",
+        },
+        auto2top: true,
+        coverpage: true,
+        executeScript: true,
+        loadSidebar: true,
+        loadNavbar: true,
+        mergeNavbar: true,
+        maxLevel: 4,
+        subMaxLevel: 2,
+        // ga: "UA-106147152-1",
+        // matomo: {
+        //   host: "//matomo.thunderwave.de",
+        //   id: 6,
+        // },
+        name: "info.ignouwala",
+        // repo: "https://github.com/bimlu/ignou-info",
+        nameLink: {
+          "/": "#/",
+          "/hi/": "#/hi/",
+          "/ds/": "#/ds/",
+        },
+        search: {
+          noData: {
+            "/": "No results!",
+            "/hi/": "कोई परिणाम नहीं!",
+            "/ds/": "koee parinaam nahin!",
+          },
+          paths: "auto",
+          placeholder: {
+            "/": "Search",
+            "/hi/": "खोजें",
+            "/ds/": "khojein",
+          },
+          pathNamespaces: ["/hi", "/ds"],
+        },
+        vueComponents: {
+          "button-counter": {
+            template:
+              '<button @click="count += 1">You clicked me {{ count }} times</button>',
+            data: function () {
+              return {
+                count: 0,
+              };
+            },
+          },
+        },
+        vueGlobalOptions: {
+          data: function () {
+            return {
+              count: 0,
+              message: "Hello, World!",
+              // Fake API response
+              images: [
+                { title: "Image 1", url: "https://picsum.photos/150?random=1" },
+                { title: "Image 2", url: "https://picsum.photos/150?random=2" },
+                { title: "Image 3", url: "https://picsum.photos/150?random=3" },
+              ],
+            };
+          },
+          computed: {
+            timeOfDay: function () {
+              const date = new Date();
+              const hours = date.getHours();
+
+              if (hours < 12) {
+                return "morning";
+              } else if (hours < 18) {
+                return "afternoon";
+              } else {
+                return "evening";
+              }
+            },
+          },
+          methods: {
+            hello: function () {
+              alert(this.message);
+            },
+          },
+        },
+        vueMounts: {
+          "#counter": {
+            data: function () {
+              return {
+                count: 0,
+              };
+            },
+          },
+        },
+        plugins: [],
+      };
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-nginx.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+    <script>
+      (function () {
+        function loadJS(src, attrs) {
+          document.write(
+            '<script src="' + src + '" ' + (attrs || "") + "><\/script>"
+          );
+        }
+
+        // Public site only
+        // if (/docsify/.test(location.host)) {
+        //   loadJS("//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js");
+        //   loadJS("//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js");
+        // }
+      })();
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
+    <!-- <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script> -->
+  </body>
+</html>
