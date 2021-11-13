@@ -41,4 +41,5 @@ Follow us on [Twitter](https://twitter.com/ignouwala).
 
 ## Special Thanks
 
-_ignou.ac.in_ 🖤
+_ignou.ac.in_  
+_samarth.edu.in_
