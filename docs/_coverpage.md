@@ -1,6 +1,6 @@
 ![logo](_media/icon.png)
 
-# info.ignouwala.com <small>0.0.1</small>
+# info.ignouwala <small>0.0.1</small>
 
 > IGNOU Information and FAQs.
 

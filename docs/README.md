@@ -1,24 +1,39 @@
 ## info.ignouwala.com
 
-> An Online IGNOU common prospectus.
+> Online IGNOU Information Center.
 
 ## What it is
 
-info.ignouwala.com contains documentation of IGNOU. Unlike other websites, it is not slow and old fashioned. Instead, it is modern and up to date documentation of IGNOU.
+info.ignouwala.com provides all kinds of Information and FAQs about IGNOU (Indira Gandhi National Open University).
 
-See the [The University](university.md).
+All the data is in this website is extracted from IGNOU Common Prospectus (July-2021) which is available at http://ignou.ac.in/userfiles/Common-Prospectus-English.pdf.
+
+## About IGNOU
+
+IGNOU is a National Open Universityy established by an Act of Parliament in 1985 (Act No. 50 of 1985).
+The Degrees/ Diplomas/ Certificates issued by IGNOU are recognised by all the member institutions of the
+Association of Indian Universities (AIU) and are at par with the corresponding Degrees/ Diplomas/
+Certificates issued by all Indian Universities/ Deemed Universities/ Institutions etc.
+
+> It is the First Open University in the Country to have been accredited with the highest A++ Grade by NAAC.
 
 ## How to use
 
-To see table of contents click on hamberger icon on lower left corner.
+To see table of contents click on hamberger icon on lower right corner.
+
+See the [The University](university.md).
+
+## Course and Programmes
+
+See [library.ignouwala.com](https://library.ignouwala.com) for detailed Courses and Programmes of IGNOU.
 
 ## Features
 
-- Simple and lightweight
-- Multiple themes
-- Multiple languages
-- Smart search
-- Up to date information
+- Simple and Lightweight
+- Multiple Themes
+- Multiple Languages
+- Smart Search
+- Mobile and Desktop
 
 ## Community
 
@@ -26,4 +41,4 @@ Follow us on [Twitter](https://twitter.com/ignouwala).
 
 ## Special Thanks
 
-_ignou.ac.in_
+_ignou.ac.in_ 🖤

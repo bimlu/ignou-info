@@ -2,4 +2,4 @@
 - [University Rules](rules.md)
 - [Policy and Contact](policy.md)
 - [Addresses and code](codes.md)
-- [Programmes](programmes.md)
+- [Courses and Programmes](programmes.md)
