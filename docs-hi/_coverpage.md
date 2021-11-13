@@ -2,11 +2,11 @@
 
 # info.ignouwala <small>0.0.1</small>
 
-> IGNOU Information and FAQs.
+> इग्नू सूचना और अक्सर पूछे जाने वाले प्रश्न।
 
-- Simple and lightweight
-- Mobile friendly
-- Up to date
+- सरल और हल्का
+- मोबाइल फ्रेंडली
+- आधुनिक
 
-[GitHub](https://github.com/bimlu/ignou-info/)
-[Getting Started](#infoignouwalacom)
+[गिटहब](https://github.com/bimlu/ignou-info/)
+[शुरू करें](#infoignouwalacom)

@@ -1,420 +1,420 @@
-**The University reserves the right to change the rules from time to time. However, latest rules will be applicable to all the students irrespective of the year of the irregistration.**
-
-## Educational Qualifications Awarded By Private Institutions
-
-Any educational qualification awarded by the Private Universities established under the provisions of
-the **Chhattisgarh NijiK shetra Vishw avidyalaya (Sthapana Aur Viniyam an), Adhiniyam , 2002**
-are non-existent and cannot be considered for admission to any Academic Programme in IGNOU.
-
-## Validity of Degree for Admission
-
-Master’s Degree awarded without a first degree of three year duration is not recognised for
-purposes of admission to IGNOU’s Academic Programmes. However, this condition is not
-applicable
-for the
-five- year Integrated Master’s degree acquired from arecognized
-University/Institution.
-**Bachelor’s Degree means, Bachelor’s Degree of not less than three year duration.**
-
-## Acceptance of ‘Two year Bachelor’s degree’
-
-Students who had enrolled themselves in the first degree course prior to June 4, 1986 and
-students who had successfully completed their first degree course, prior to June 4, 1986,
-irrespective of their duration shall be treated at par with the students who have completed
-Three years degree and they are not required to undergo a further one year bridge course.
-Degrees obtained prior to June 4, 1986 and the degree awarded to the students enrolled
-upto June 1986, but completed subsequently shall be treated valid for all purposes including
-admission to a Masters degree programme and other higherstudies.
-IGNOU accepts First degree of Two year duration obtained from a recognized university
-**completed up to the year 1998-99 for purposes of higher studies; provided such students have undergone a further one year bridge course and passed the same to be in conformity with UGC Regulations.**
-
-**Degrees acquired from an ‘Off Campus’ Centre**
-
-Degrees acquired from an ‘Off Campus’ Centre of Private Universities outside the territorial
-jurisdiction of the State concerned are not recognized for purposes of admission to IGNOU’s
-academic programmes unless it has specific approval of the University GrantsCommission.
-Similarly, Degrees acquired through an ‘Off Campus’ Centre/ ‘Off-shore’
-Campus
-of
-Central/State/ Deemed to be Universities/Institutions of National Importance offered through
-Open and Distance learning (ODL) mode will be accepted for purposes of higher studies in
-IGNOU;
-provided
-these
-have been obtained as per territorial jurisdiction of these
-Central/State/Deemed to be Universities/Institutions of National Importance prescribed by the
-University Grants Commission from time totime.
-
-## Incomplete and Late Applications
-
-Incomplete Online Application Form(s)/Re-registration Form(s), received having wrong options of
-courses or electives or false information, will be summarily rejected without any intimation to
-the learners. The learners are, therefore, advised to fill up the relevant columns carefully and
-provide clear/visible scanned copies of all the required self attested certificates. If necessary,
-the University may seek applications from the learners in 'Offline Mode' in some specific programmes
-or due to some unforeseen circumstances. In all such situations, the application form sent through
-'Offline Mode' to offices of the University, other than the one specified, will not be considered
-and the applicant will have no claim, whatsoever, on account of this.
-
-## Validity of Admission
-
-Learners offered admission have to join on or before the due dates specified by the University.
-In case they want to seek admission for the next session, they will have to apply afresh and go
-through the admission process again.
-
-## Simultaneous Registration
-
-Students who are already enrolled in a programme of one year or longer duration can also
-simultaneously register themselves for any **Certificate programme of Six months duration.**
-However, if there is any clash of dates of counselling or examination schedule between the two
-programmes taken by the student, University will not be in a position to make adjustment.
-However simultaneously pursuing **two academic Programmes** at degree level, either from the same
-University, or one from the **Open University** (under **ODL mode**) and the other from **Conventional University (regular or face-to- face mode)** is not permitted, as of now.
-
-## Re-Registration
-
-“Re-registration” means registration in the next semester/year of a programme, wherever applicable.
-Learners are advised to submit the Re-Registration (RR) forms ‘Online’ on the web portal
-www.ignou.ac.in. as per schedule being notified by the University from time to time, irrespective
-of the fact that whether the learners appeared in the examination or not or whether they
-arepassed or not in the course(s) registered in the current academic session. If the Re-
-Registration in any of the programme is not available online or for any other reason as specified
-by the University, Learners should submit their RR forms at the respective Regional Centre
-ONLY and nowhere else. If any student submits the ‘Offline’ Re-Registration Form at any other
-Regional Centre than the allocated Regional Centre, and consequently misses the scheduled date
-and a semester/ year, he/she will have no claim on the University for regularization.
-International students of the University pursuing their programme from India are also advised to
-submit re- registrations form online. Offline forms, if any, may be submitted to the International
-Division of the University.
-
-## Additional time for Learners with Disability
-
-1. Learners with disability of 40% or more are given additional 2 (two) years beyond the
-   maximum duration prescribed for all academic programmes.
-
-2. Learners with disability seeking benefit of the aforesaid facility should submit the ‘Disability
-   Certificate’ issued by the competent authority at the Regional Centre concerned, which, in
-   turn will verify it, make entry in the data base and transmit the data to SRD for updating in the
-   Master records.
-
-## Reservation
-
-The University provides reservation of seats for Scheduled Castes and Scheduled Tribes, non-
-creamy layer of OBC, Economically Weaker Sections, (as notified by MHRD vide OM 12-4/019-U1 dated
-January 2019), War Widows, Kashmiri Migrants and Physically Handicapped learners, as per the
-Government of India rules, for admission to its programmes in whch there are limited number of seats
-and admission is through a merit lst. However, submission of forged certificate under any category shall
-make the student liable not only for cancellation of admission but also legal actionas per Government
-of India rules.
+**विश्वविद्यालय समय-समय पर नियमों में परिवर्तन करने का अधिकार सुरक्षित रखता है। हालांकि, नवीनतम नियम सभी छात्रों पर लागू होंगे, चाहे पंजीकरण का वर्ष कुछ भी हो।**
+
+## निजी संस्थानों द्वारा प्रदान की जाने वाली शैक्षिक योग्यता
+
+के प्रावधानों के तहत स्थापित निजी विश्वविद्यालयों द्वारा प्रदान की जाने वाली कोई भी शैक्षणिक योग्यता
+**छत्तीसगढ़ निजिक क्षेत्र विश्व विद्यालय (स्थापना और विनियम एक), अधिनियम, 2002**
+अस्तित्वहीन हैं और इग्नू में किसी भी शैक्षणिक कार्यक्रम में प्रवेश के लिए विचार नहीं किया जा सकता है।
+
+## प्रवेश के लिए डिग्री की वैधता
+
+तीन साल की अवधि की पहली डिग्री के बिना दी गई मास्टर डिग्री के लिए मान्यता प्राप्त नहीं है
+इग्नू के शैक्षणिक कार्यक्रमों में प्रवेश के उद्देश्य। हालाँकि, यह स्थिति नहीं है
+उपयुक्त
+के लिए
+किसी मान्यता प्राप्त से प्राप्त पांच वर्षीय एकीकृत मास्टर डिग्री
+विश्वविद्यालय/संस्था।
+**स्नातक डिग्री का अर्थ है, कम से कम तीन वर्ष की अवधि की स्नातक डिग्री।**
+
+## 'दो वर्षीय स्नातक की डिग्री' की स्वीकृति
+
+वे छात्र जिन्होंने 4 जून 1986 से पहले प्रथम डिग्री पाठ्यक्रम में अपना नामांकन कराया था और
+जिन छात्रों ने 4 जून 1986 से पहले अपना पहला डिग्री कोर्स सफलतापूर्वक पूरा कर लिया था,
+उनकी अवधि की परवाह किए बिना पूरा करने वाले छात्रों के समान माना जाएगा
+तीन साल की डिग्री और उन्हें एक साल के ब्रिज कोर्स से गुजरने की जरूरत नहीं है।
+4 जून 1986 से पहले प्राप्त डिग्री और नामांकित छात्रों को प्रदान की गई डिग्री
+जून 1986 तक, लेकिन बाद में पूरा किया गया, सभी उद्देश्यों के लिए वैध माना जाएगा:
+एक परास्नातक डिग्री कार्यक्रम और अन्य उच्च अध्ययन में प्रवेश।
+इग्नू किसी मान्यता प्राप्त विश्वविद्यालय से प्राप्त दो साल की अवधि की पहली डिग्री स्वीकार करता है
+**उच्च अध्ययन के उद्देश्य से वर्ष 1998-99 तक पूर्ण; बशर्ते ऐसे छात्रों ने एक और एक साल का ब्रिज कोर्स किया हो और इसे यूजीसी विनियमों के अनुरूप उत्तीर्ण किया हो।**
+
+**एक 'ऑफ कैंपस' केंद्र से हासिल की गई डिग्री**
+
+प्रादेशिक के बाहर निजी विश्वविद्यालयों के 'ऑफ कैंपस' केंद्र से हासिल की गई डिग्री
+संबंधित राज्य के अधिकार क्षेत्र इग्नू में प्रवेश के प्रयोजनों के लिए मान्यता प्राप्त नहीं हैं
+शैक्षणिक कार्यक्रम जब तक कि उसके पास विश्वविद्यालय अनुदान आयोग का विशिष्ट अनुमोदन न हो।
+इसी तरह, 'ऑफ कैंपस' सेंटर/'ऑफ-शोर' के माध्यम से हासिल की गई डिग्री
+कैंपस
+का
+केंद्रीय/राज्य/समविश्वविद्यालय/राष्ट्रीय महत्व के संस्थानों के माध्यम से पेशकश की जाती है
+में उच्च अध्ययन के प्रयोजनों के लिए मुक्त और दूरस्थ शिक्षा (ODL) मोड स्वीकार किया जाएगा
+इग्नू;
+प्रदान की
+इन
+इनके क्षेत्रीय अधिकार क्षेत्र के अनुसार प्राप्त किया गया है
+केंद्र/राज्य/मानित विश्वविद्यालय/राष्ट्रीय महत्व के संस्थान द्वारा निर्धारित
+विश्वविद्यालय अनुदान आयोग समय-समय पर
+
+## अपूर्ण और देर से आवेदन
+
+अपूर्ण ऑनलाइन आवेदन पत्र/पुनः पंजीकरण फॉर्म, गलत विकल्प वाले प्राप्त हुए
+पाठ्यक्रम या ऐच्छिक या गलत जानकारी, को बिना किसी सूचना के सरसरी तौर पर खारिज कर दिया जाएगा
+शिक्षार्थियों। इसलिए, शिक्षार्थियों को सलाह दी जाती है कि वे संबंधित कॉलमों को ध्यान से भरें और
+सभी आवश्यक स्वप्रमाणित प्रमाणपत्रों की स्पष्ट/दृश्यमान स्कैन प्रतियां प्रदान करें। यदि आवश्यक है,
+विश्वविद्यालय कुछ विशिष्ट कार्यक्रमों में 'ऑफ़लाइन मोड' में शिक्षार्थियों से आवेदन मांग सकता है
+या कुछ अप्रत्याशित परिस्थितियों के कारण। ऐसी सभी स्थितियों में, के माध्यम से भेजा गया आवेदन पत्र
+विश्वविद्यालय के कार्यालयों के लिए 'ऑफ़लाइन मोड', निर्दिष्ट एक के अलावा, पर विचार नहीं किया जाएगा
+और इस पर आवेदक का कोई दावा नहीं होगा, जो भी हो।
+
+## प्रवेश की वैधता
+
+प्रवेश की पेशकश करने वाले शिक्षार्थियों को विश्वविद्यालय द्वारा निर्दिष्ट नियत तारीखों पर या उससे पहले शामिल होना होगा।
+यदि वे अगले सत्र में प्रवेश लेना चाहते हैं, तो उन्हें नए सिरे से आवेदन करना होगा और जाना होगा
+फिर से प्रवेश प्रक्रिया के माध्यम से।
+
+## एक साथ पंजीकरण
+
+जो छात्र पहले से ही एक वर्ष या उससे अधिक अवधि के कार्यक्रम में नामांकित हैं, वे भी कर सकते हैं
+एक साथ किसी भी **छह महीने की अवधि के प्रमाणपत्र कार्यक्रम ** के लिए खुद को पंजीकृत करें।
+हालांकि, अगर दोनों के बीच काउंसलिंग या परीक्षा कार्यक्रम की तारीखों में कोई टकराव होता है
+छात्र द्वारा लिए गए कार्यक्रम, विश्वविद्यालय समायोजन करने की स्थिति में नहीं होगा।
+हालांकि डिग्री स्तर पर **दो अकादमिक कार्यक्रम** एक साथ कर रहे हैं, या तो एक ही से
+विश्वविद्यालय, या **ओपन यूनिवर्सिटी** से एक (**ओडीएल मोड के तहत**) और दूसरा **परंपरागत विश्वविद्यालय (नियमित या आमने-सामने मोड)** से अभी तक अनुमति नहीं है।
+
+## पुन: पंजीकरण
+
+"पुनः पंजीकरण" का अर्थ है किसी कार्यक्रम के अगले सेमेस्टर/वर्ष में पंजीकरण, जहां भी लागू हो।
+शिक्षार्थियों को सलाह दी जाती है कि वे वेब पोर्टल पर पुन: पंजीकरण (आरआर) फॉर्म 'ऑनलाइन' जमा करें
+www.ignou.ac.in। विश्वविद्यालय द्वारा समय-समय पर अधिसूचित की जा रही अनुसूची के अनुसार,
+इस तथ्य से कि शिक्षार्थी परीक्षा में उपस्थित हुए या नहीं या वे
+वर्तमान शैक्षणिक सत्र में पंजीकृत पाठ्यक्रम (पाठ्यक्रमों) में उत्तीर्ण हैं या नहीं। अगर वहाँ-
+किसी भी कार्यक्रम में पंजीकरण ऑनलाइन या निर्दिष्ट किसी अन्य कारण से उपलब्ध नहीं है
+विश्वविद्यालय द्वारा, शिक्षार्थियों को अपने आरआर फॉर्म संबंधित क्षेत्रीय केंद्र में जमा करने चाहिए
+सिर्फ और कहीं नहीं। यदि कोई छात्र किसी अन्य स्थान पर 'ऑफ़लाइन' पुन: पंजीकरण फॉर्म जमा करता है
+आवंटित क्षेत्रीय केंद्र की तुलना में क्षेत्रीय केंद्र, और फलस्वरूप निर्धारित तिथि याद आती है
+और एक सेमेस्टर / वर्ष, वह नियमितीकरण के लिए विश्वविद्यालय पर कोई दावा नहीं करेगा।
+भारत से अपने कार्यक्रम का अनुसरण करने वाले विश्वविद्यालय के अंतर्राष्ट्रीय छात्रों को भी सलाह दी जाती है कि
+ऑनलाइन पुन: पंजीकरण फॉर्म जमा करें। ऑफलाइन फॉर्म, यदि कोई हो, इंटरनेशनल को जमा किया जा सकता है
+विश्वविद्यालय का विभाग।
+
+## विकलांग शिक्षार्थियों के लिए अतिरिक्त समय
+
+1. 40% या उससे अधिक की विकलांगता वाले शिक्षार्थियों को के बाद अतिरिक्त 2 (दो) वर्ष दिए जाते हैं
+   सभी शैक्षणिक कार्यक्रमों के लिए निर्धारित अधिकतम अवधि।
+
+2. उपर्युक्त सुविधा का लाभ चाहने वाले विकलांग शिक्षार्थियों को 'विकलांगता' जमा करनी चाहिए
+   संबंधित क्षेत्रीय केंद्र में सक्षम प्राधिकारी द्वारा जारी प्रमाणपत्र', जो, में
+   टर्न इसे सत्यापित करेगा, डेटा बेस में प्रविष्टि करेगा और डेटा को एसआरडी में अपडेट करने के लिए प्रेषित करेगा
+   मास्टर रिकॉर्ड।
+
+## आरक्षण
+
+विश्वविद्यालय अनुसूचित जातियों और अनुसूचित जनजातियों के लिए सीटों का आरक्षण प्रदान करता है, गैर-
+ओबीसी, आर्थिक रूप से कमजोर वर्गों की क्रीमी लेयर, (एमएचआरडी द्वारा दिनांक 12-4/019-यू1 के कार्यालय ज्ञापन द्वारा अधिसूचित)
+जनवरी 2019), युद्ध विधवाओं, कश्मीरी प्रवासियों और शारीरिक रूप से विकलांग शिक्षार्थियों, के अनुसार
+भारत सरकार के नियम, उसके कार्यक्रमों में प्रवेश के लिए जिसमें सीटों की सीमित संख्या है
+और प्रवेश एक मेरिट lst के माध्यम से है। हालांकि, किसी भी श्रेणी के तहत जाली प्रमाण पत्र जमा करना होगा
+छात्र को न केवल प्रवेश रद्द करने के लिए बल्कि सरकार के अनुसार कानूनी कार्रवाई के लिए भी उत्तरदायी बनाना
+भारत के नियम।
 
-## Scholarships
+## छात्रवृत्ति
 
-- The learners enrolled in IGNOU are eligible for Government of India Scholarships. They are advised
-  visit the National Scholarship Portal of the Government of India https://scholarships.gov.in/ ) and
-  submit their application online. For further details students may contact their Regional Centre.
+- इग्नू में नामांकित शिक्षार्थी भारत सरकार की छात्रवृत्ति के लिए पात्र हैं। उन्हें सलाह दी जाती है
+  भारत सरकार के राष्ट्रीय छात्रवृत्ति पोर्टल पर जाएँ https://scholarships.gov.in/ ) और
+  अपना आवेदन ऑनलाइन जमा करें। अधिक जानकारी के लिए छात्र अपने क्षेत्रीय केंद्र से संपर्क कर सकते हैं।
 
-- Students belonging to the Scheduled Caste category may apply for financial assistance under the
-  Centrally Sponsored Scheme of Post Matric Scholarship. Details of the Scheme are available at
-  http://socialjustice.nic.in/writereaddata/UploadFile/revised%20PMS%20scheme%20for%20SC-2018.pdf.
+- अनुसूचित जाति वर्ग के छात्र वित्तीय सहायता के लिए आवेदन कर सकते हैं
+  पोस्ट मैट्रिक छात्रवृत्ति की केंद्र प्रायोजित योजना। योजना का विवरण यहां उपलब्ध है
+  http://socialjustice.nic.in/writereaddata/UploadFile/revised%20PMS%20scheme%20for%20SC-2018.pdf।
 
-- Students belonging to the Scheduled Tribe category may apply for financial assistance under the
-  Centrally Sponsored Scheme of Post Matric Scholarship. Details of the Scheme are available
-  at https://tribal.nic.in/writereaddata/Schemes/EDUPostMatricScholarshipPMSforSTstudents230513.pdf.
+- अनुसूचित जनजाति वर्ग के छात्र वित्तीय सहायता के लिए आवेदन कर सकते हैं
+  पोस्ट मैट्रिक छात्रवृत्ति की केंद्र प्रायोजित योजना। योजना का विवरण उपलब्ध है
+  https://tribal.nic.in/writereaddata/Schemes/EDUPostMatricScholarshipPMSforSTstudents230513.pdf पर।
 
-## Fee Exemptionfor SC/ST Students under the SCSP and TSP Schemes
+## एससीएसपी और टीएसपी योजनाओं के तहत अनुसूचित जाति / अनुसूचित जनजाति के छात्रों के लिए शुल्क में छूट
 
-The University provides exemption of programme fee to students from SC/ST category as per its policy.
-The policy is reviewed for every admission cycle. Students are advised to visit the University website or
-contact the Regional Centre to know about the latest provisions.
-The SC and ST students who are employed or who are availing any kind of fellowship or fee exemption
-from other agencies are not eligible for fee exemption under SCSP/TSP scheme. The exemption of
-fee is confined to Programme Fee mentioned in this Admission Prospectus. The scheme will not exempt
-late fee (if any), term-end-exam fee, convocation fee etc.
+विश्वविद्यालय अपनी नीति के अनुसार अनुसूचित जाति/अनुसूचित जनजाति वर्ग के छात्रों को कार्यक्रम शुल्क में छूट प्रदान करता है।
+प्रत्येक प्रवेश चक्र के लिए नीति की समीक्षा की जाती है। छात्रों को सलाह दी जाती है कि वे विश्वविद्यालय की वेबसाइट देखें या
+नवीनतम प्रावधानों के बारे में जानने के लिए क्षेत्रीय केंद्र से संपर्क करें।
+अनुसूचित जाति और अनुसूचित जनजाति के छात्र जो कार्यरत हैं या जो किसी भी प्रकार की फेलोशिप या शुल्क में छूट का लाभ उठा रहे हैं
+अन्य एजेंसियों से एससीएसपी/टीएसपी योजना के तहत शुल्क छूट के लिए पात्र नहीं हैं। की छूट
+शुल्क इस प्रवेश विवरणिका में उल्लिखित कार्यक्रम शुल्क तक ही सीमित है। योजना में छूट नहीं होगी
+विलंब शुल्क (यदि कोई हो), सत्रांत परीक्षा शुल्क, दीक्षांत शुल्क आदि।
 
-## Registration fee, Cancellation of Admission and Refund of Fee
+## पंजीकरण शुल्क, प्रवेश रद्द करना और शुल्क की वापसी
 
-A non-refundable Registration Fee of Rs. 200/- (unless specified otherwise) shall be charged along with
-the programme fee of first semester/year at the time of admission.
+एक गैर-वापसी योग्य पंजीकरण शुल्क रु। 200/- (जब तक अन्यथा निर्दिष्ट न हो) के साथ शुल्क लिया जाएगा
+प्रवेश के समय प्रथम सेमेस्टर/वर्ष का कार्यक्रम शुल्क।
 
-If a student applies for cancellation of admission and refund of fee, the refund request will be considered as per the University policy as under:
+यदि कोई छात्र प्रवेश रद्द करने और शुल्क की वापसी के लिए आवेदन करता है, तो विश्वविद्यालय की नीति के अनुसार धनवापसी अनुरोध पर निम्नानुसार विचार किया जाएगा:
 
-1. Before the last date for submission of admission form-the fee paid will be refunded after
-   deduction of Rs.200/-.
+1. प्रवेश पत्र जमा करने की अंतिम तिथि से पहले-भुगतान किया गया शुल्क वापस कर दिया जाएगा
+   200/- रुपये की कटौती।
 
-2. Within 15 days from the last date for submission of admission form-the fee paid will be refunded
-   after deduction of Rs.500/-.
+2. प्रवेश पत्र जमा करने की अंतिम तिथि से 15 दिनों के भीतर-भुगतान किया गया शुल्क वापस कर दिया जाएगा
+   500/- रुपये की कटौती के बाद।
 
-3. Within 30 days from the last date for submission of admission form-the fee paid will be refunded
-   after deduction of Rs.1,000/-.
+3. प्रवेश पत्र जमा करने की अंतिम तिथि से 30 दिनों के भीतर-भुगतान किया गया शुल्क वापस कर दिया जाएगा
+   1,000/- रुपये की कटौती के बाद।
 
-4. After 30 days from the closure of the last date-No refund will be allowed.
+4. अंतिम तिथि बंद होने के 30 दिनों के बाद-कोई वापसी की अनुमति नहीं दी जाएगी।
 
-5. The last dates for submission of admission form will be considered separately i.e. last date without
-   late fee and last date with late fee. However, latefee, if any, will not be refunded.
+5. प्रवेश पत्र जमा करने की अंतिम तिथियों पर अलग से विचार किया जाएगा अर्थात अंतिम तिथि बिना
+   विलंब शुल्क और विलंब शुल्क के साथ अंतिम तिथि। हालांकि, विलंब शुल्क, यदि कोई हो, वापस नहीं किया जाएगा।
 
-6. In cases of (a) to (c) above, the candidate will make a written request to the Regional Director
-   concerned for such a refund. The RC will process the cases as soon as possible after ascertaining the
-   credit of the same in IGNOU Accounts.
+6. उपरोक्त (ए) से (सी) के मामलों में, उम्मीदवार क्षेत्रीय निदेशक को एक लिखित अनुरोध करेगा
+   इस तरह की वापसी के लिए चिंतित हैं। आरसी मामलों का पता लगाने के बाद जल्द से जल्द कार्रवाई करेगी
+   इग्नू खातों में उसी का क्रेडिट।
 
-7. For CBCS Based Bachelor's Degree Programme:
-   The registration of the students will be done year-wise though the courses of the programmes will
-   be offered semester-wise. The students will pay the fee for the first and second semesters at the
-   time of admission itself. No fee will be refunded if a student decides to with draw mid-session.
+7. सीबीसीएस आधारित स्नातक डिग्री कार्यक्रम के लिए:
+   छात्रों का पंजीकरण वर्षवार किया जाएगा, हालांकि कार्यक्रमों के पाठ्यक्रम होंगे
+   सेमेस्टर-वार की पेशकश की। छात्र पहले और दूसरे सेमेस्टर के लिए शुल्क का भुगतान करेंगे
+   प्रवेश का समय ही। यदि कोई छात्र सत्र के बीच में ड्रा निकालने का निर्णय लेता है तो कोई शुल्क वापस नहीं किया जाएगा।
 
-## Waiver of IGNOU Programme fee for Jail Inmates
+## जेल में बंद कैदियों के लिए इग्नू कार्यक्रम शुल्क में छूट
 
-Inmates lodged in Prisons in the country are exempted from payment of programme fee, including
-registration fee. The under-trial/short term prisoners are also eligible for the same benefit of
-exemptionas is extended to other prisoners with the condition that when they go out of jail, they will
-be treatedas normal students and shall pay subsequent fees wherever applicable (examination fee,
-re-registration fee, pro-rata fee for readmission, registration fee for convocation etc.).
+देश में जेलों में बंद कैदियों को कार्यक्रम शुल्क के भुगतान से छूट दी गई है, जिसमें शामिल हैं:
+पंजीयन शुल्क। विचाराधीन/अल्पकालिक कैदी भी इसी लाभ के पात्र हैं
+अन्य कैदियों को छूट इस शर्त के साथ दी जाती है कि जब वे जेल से बाहर निकलेंगे, तो वे
+सामान्य छात्रों के रूप में माना जाएगा और जहां भी लागू हो बाद की फीस का भुगतान करेगा (परीक्षा शुल्क,
+पुन: पंजीकरण शुल्क, पुन: प्रवेश के लिए आनुपातिक शुल्क, दीक्षांत समारोह के लिए पंजीकरण शुल्क आदि)।
 
-## Study Material and Assignments
+## अध्ययन सामग्री और असाइनमेंट
 
-- The University has a provision to provide soft copy of the self-learning material in place of printed
-  material. A learner opting for the soft copy will be given a discount of 15% in the Programme Fee. The
-  Option to this effect has to be indicated by the learners while filling in the Online Admission Form.
-  Such learners will not be given printed self-learning material.
+- विश्वविद्यालय में मुद्रित के स्थान पर स्व-शिक्षण सामग्री की सॉफ्ट कॉपी उपलब्ध कराने का प्रावधान है
+  सामग्री। सॉफ्ट कॉपी चुनने वाले शिक्षार्थी को कार्यक्रम शुल्क में 15% की छूट दी जाएगी। NS
+  इस आशय का विकल्प शिक्षार्थियों द्वारा ऑनलाइन प्रवेश फॉर्म भरते समय इंगित किया जाना है।
+  ऐसे शिक्षार्थियों को मुद्रित स्व-शिक्षण सामग्री नहीं दी जाएगी।
 
-- The University sends study material to the students by Registered post/ Speed Post and if a student
-  does not receive the same for any reason; whatsoever, the University shall not beheld responsible for
-  that.
+- विश्वविद्यालय छात्रों को अध्ययन सामग्री पंजीकृत डाक/स्पीड पोस्ट से भेजता है और यदि कोई छात्र
+  किसी भी कारण से समान प्राप्त नहीं करता है; जो भी हो, विश्वविद्यालय इसके लिए जिम्मेदार नहीं होगा
+  वह।
 
-- Assignments for the current session are made available on the website. Students are advised to
-  download the same.
+- वर्तमान सत्र के लिए सत्रीय कार्य वेबसाइट पर उपलब्ध कराए गए हैं। छात्रों को सलाह दी जाती है कि
+  वही डाउनलोड करें।
 
-- For non-receipt of study material, learners are required to write to the Registrar, Material Production
-  and Distribution Division, IGNOU, Maidan Garhi, New Delhi – 110 068
+- अध्ययन सामग्री प्राप्त न होने पर, शिक्षार्थियों को रजिस्ट्रार, सामग्री उत्पादन को लिखना आवश्यक है
+  और वितरण प्रभाग, इग्नू, मैदान गढ़ी, नई दिल्ली - 110 068
 
-## Change of Elective/Course
+## ऐच्छिक/पाठ्यक्रम में परिवर्तन
 
-For CBCS Based Bachelor's Degree Programme, change of course is **NOT permitted** in CBCS-Based
-BAG/ BCOMG and BSCG Programmes at present. The facility may be made available in near furure.
-However, change of course, whenever permitted, shall be permitted only in the first year. **For Master’s Degree Programme, the fee for change of course is Rs.600/- for 2/4 credits and Rs.1200/- for 6/8 credits course.** Payment should be made by way of a Demand Draft drawn in
-favour of “IGNOU” payable at the place of concerned Regional Centre. All such requests for change of
-Elective/Course should be addressed to the concerned Regional Centre only as per schedule.
+सीबीसीएस आधारित स्नातक डिग्री कार्यक्रम के लिए, सीबीसीएस आधारित पाठ्यक्रम में **अनुमति नहीं है**
+वर्तमान में बीएजी/बीसीओएमजी और बीएससीजी कार्यक्रम। निकट भविष्य में सुविधा उपलब्ध कराई जा सकती है।
+हालांकि, जब भी अनुमति दी जाती है, पाठ्यक्रम में बदलाव की अनुमति केवल पहले वर्ष में ही दी जाएगी। **मास्टर डिग्री प्रोग्राम के लिए, पाठ्यक्रम में परिवर्तन के लिए शुल्क रु.600/- 2/4 क्रेडिट के लिए और रु.1200/- 6/8 क्रेडिट पाठ्यक्रम के लिए है।** भुगतान डिमांड ड्राफ्ट के माध्यम से किया जाना चाहिए में
+संबंधित क्षेत्रीय केंद्र के स्थान पर देय "इग्नू" के पक्ष में। के परिवर्तन के लिए ऐसे सभी अनुरोध
+ऐच्छिक/पाठ्यक्रम संबंधित क्षेत्रीय केंद्र को केवल अनुसूची के अनुसार संबोधित किया जाना चाहिए।
 
-## Change of Medium
+## माध्यम का परिवर्तन
 
-For CBCS Based Bachelor's Degree Programme, Change of medium will be allowed as per current
-practice on payment of applicable fee.
+सीबीसीएस आधारित स्नातक डिग्री कार्यक्रम के लिए, वर्तमान के अनुसार माध्यम के परिवर्तन की अनुमति दी जाएगी
+लागू शुल्क के भुगतान पर अभ्यास।
 
-For other Programmes Change of Medium is permitted within 30 days from the receipt of first set of course material **in the first year ONLY, on payment of Rs.350/- plus Rs.350/- per 2/4 credit course and Rs.700/- per 6/8 credit course for undergraduate courses. For Master’s Degree Programme it is Rs.350/- plus Rs.600/- per 2/4 credit course and Rs.1200/- per 6/8 credit course.**
+अन्य कार्यक्रमों के लिए पाठ्यक्रम सामग्री के पहले सेट की प्राप्ति से 30 दिनों के भीतर माध्यम के परिवर्तन की अनुमति है **केवल पहले वर्ष में, रु.350/- प्लस रु.350/- प्रति 2/4 क्रेडिट पाठ्यक्रम और रु. .700/- प्रति 6/8 क्रेडिट पाठ्यक्रम स्नातक पाठ्यक्रमों के लिए। मास्टर डिग्री प्रोग्राम के लिए यह रु.350/- प्लस रु.600/- प्रति 2/4 क्रेडिट कोर्स और रु.1200/- प्रति 6/8 क्रेडिट कोर्स है।**
 
-Payment should be made by way of a Demand Draft drawn in favour of “IGNOU” payable at
-the place of concerned Regional Centre. All such requests for change of Medium should be addressed to
-the concerned Regional Centre only, as perschedule.
+भुगतान "इग्नू" के पक्ष में देय डिमांड ड्राफ्ट के माध्यम से किया जाना चाहिए
+संबंधित क्षेत्रीय केंद्र का स्थान। माध्यम के परिवर्तन के लिए ऐसे सभी अनुरोधों को संबोधित किया जाना चाहिए
+केवल संबंधित क्षेत्रीय केंद्र, अनुसूची के अनुसार।
 
-## Change of Programme
+## कार्यक्रम में बदलाव
 
-Change of Programme is NOT permitted in CBCS-Based BAG, BCOMG and BSCG Programmes.
-For other Programmes Change of programme in Master’s Degree (MEG/MHD/MPS/MAH/MPA/MSO/MEC/
-MARD/M.Com./ MAPY/MAPC) is permitted only in the first year of study within 30 days from the last
-date of applying for admissions. A student has to pay the full fee for the new Programme and
-he/she has to for go the fee paid for the earlier programme.
+सीबीसीएस-आधारित बीएजी, बीसीओएमजी और बीएससीजी कार्यक्रमों में कार्यक्रम में बदलाव की अनुमति नहीं है।
+अन्य कार्यक्रमों के लिए मास्टर डिग्री (एमईजी/एमएचडी/एमपीएस/एमएएच/एमपीए/एमएसओ/एमईसी/
+MARD/M.Com./MAPY/MAPC) केवल अध्ययन के पहले वर्ष में अंतिम से 30 दिनों के भीतर अनुमति है
+प्रवेश के लिए आवेदन करने की तिथि। एक छात्र को नए कार्यक्रम के लिए पूरी फीस का भुगतान करना होगा और
+उसे पहले के कार्यक्रम के लिए भुगतान किए गए शुल्क के लिए जाना होगा।
 
-The request for change of programme should be addressed to the Regional Director of concerned
-Regional Centre.
+कार्यक्रम में परिवर्तन का अनुरोध संबंधित क्षेत्रीय निदेशक को संबोधित किया जाना चाहिए
+क्षेत्रीय केंद्र।
 
-## Credit Transfer
+## क्रेडिट ट्रांस्फ़र
 
-Credit transfer means allowing a student of another university to get admitted to IGNOU for
-completing any equivalent degree/diploma programme on the basis of credits obtained by him/her
-from that University. A student thus admitted need not write IGNOU examinations for such courses
-which are found equivalent to and for which appropriate credits would be deemed to have been
-acquired for, and for purposes of fulfilling the IGNOU requirements for award of adegree/diploma.
+क्रेडिट ट्रांसफर का अर्थ है किसी अन्य विश्वविद्यालय के छात्र को इग्नू में प्रवेश के लिए अनुमति देना
+उसके द्वारा प्राप्त क्रेडिट के आधार पर किसी भी समकक्ष डिग्री/डिप्लोमा कार्यक्रम को पूरा करना
+उस विश्वविद्यालय से। इस प्रकार प्रवेश पाने वाले छात्र को ऐसे पाठ्यक्रमों के लिए इग्नू परीक्षा लिखने की आवश्यकता नहीं है
+जो समकक्ष पाए जाते हैं और जिसके लिए उपयुक्त क्रेडिट माना जाएगा
+डिग्री/डिप्लोमा प्रदान करने के लिए इग्नू की आवश्यकताओं को पूरा करने के लिए और उद्देश्यों के लिए अधिग्रहित किया गया है।
 
-Students who want to avail of credit transfer shall get registered with IGNOU for the programmes they
-want to study. All the applications for this purpose should be addressed to The Registrar, Student
-Registration Division, IGNOU, Maidan Garhi, New Delhi-110068.
+जो छात्र क्रेडिट ट्रांसफर का लाभ उठाना चाहते हैं, उन्हें उन कार्यक्रमों के लिए इग्नू में पंजीकरण कराना होगा जो वे करते हैं
+अध्ययन करना चाहते हैं। इस प्रयोजन के लिए सभी आवेदनों को रजिस्ट्रार, छात्र को संबोधित किया जाना चाहिए
+पंजीकरण प्रभाग, इग्नू, मैदान गढ़ी, नई दिल्ली-110068।
 
-There will be NO credit transfer available for the CBCS based programmes w.e.f. July 2019 session.
+सीबीसीएस आधारित कार्यक्रमों के लिए कोई क्रेडिट ट्रांसफर उपलब्ध नहीं होगा। जुलाई 2019 सत्र।
 
-## Counselling and Examination Centre
+## परामर्श और परीक्षा केंद्र
 
-All study centres, Programme study centres, special study centres are not Examination centres. Practical
-Examination need not necessarily be held at the centre where the learner has undergone counselling or
-practicals.
+सभी अध्ययन केंद्र, कार्यक्रम अध्ययन केंद्र, विशेष अध्ययन केंद्र परीक्षा केंद्र नहीं हैं। व्यावहारिक
+जरूरी नहीं कि परीक्षा उसी केंद्र में आयोजित की जाए जहां शिक्षार्थी ने परामर्श लिया है या
+व्यावहारिक।
 
-## Correction of Address and Study Centre Change
+## पते में सुधार और अध्ययन केंद्र में बदलाव
 
-Students can initiate the request for change of address, study centre and regional centre online from
-their user account. The user account is to be created at https://ignou.samarth.edu.in by clicking ‘New
-Registration’.
+छात्र पते, अध्ययन केंद्र और क्षेत्रीय केंद्र में परिवर्तन के लिए अनुरोध ऑनलाइन शुरू कर सकते हैं
+उनका उपयोगकर्ता खाता। उपयोगकर्ता खाता https://ignou.samarth.edu.in पर 'नया' पर क्लिक करके बनाया जाना है
+पंजीकरण'।
 
-## Change of Region
+## क्षेत्र का परिवर्तन
 
-When a learner wants transfer from one region to another, he/she has to write to that effect to the
-Regional Centre from where he/she is seeking a transfer marking copies to the Regional Centre where
-he/she would like to be transferred to. Further, he/she has to obtain a certificate from the
-Coordinator of the Study Centre from where he/she is seeking transfer regarding the number of
-assignments submitted. The Regional Director from where the learner is seeking the transfer will
-transfer all records including details of fee payment to the new Regional Centre under intimation to the
-Registrar, Student Registration Division (SRD) and the learner as well. For change of Region in
-practical oriented Programmes like computer programmes, B.Sc. etc., ‘No Objection Certificate’ is to be
-obtained from the concerned Regional Centre/Study Centre where the learner wishes his/her transfer.
+जब कोई शिक्षार्थी एक क्षेत्र से दूसरे क्षेत्र में स्थानांतरण चाहता/चाहती है, तो उसे इस संबंध में निम्नलिखित को लिखना होगा
+क्षेत्रीय केंद्र जहां से वह क्षेत्रीय केंद्र के लिए प्रतियों को चिह्नित करने के लिए स्थानांतरण की मांग कर रहा है, जहां
+वह स्थानांतरित होना चाहता/चाहती है। इसके अलावा, उसे से एक प्रमाण पत्र प्राप्त करना होगा
+अध्ययन केंद्र के समन्वयक जहां से वह स्थानांतरण की मांग कर रहे हैं, की संख्या के संबंध में
+सौंपे गए कार्य। क्षेत्रीय निदेशक जहां से शिक्षार्थी स्थानांतरण की मांग कर रहा है
+शुल्क भुगतान के विवरण सहित सभी अभिलेखों को नए क्षेत्रीय केंद्र को सूचित करते हुए स्थानांतरित करें
+रजिस्ट्रार, छात्र पंजीकरण प्रभाग (एसआरडी) और शिक्षार्थी भी। क्षेत्र में परिवर्तन के लिए
+व्यावहारिक उन्मुख कार्यक्रम जैसे कंप्यूटर प्रोग्राम, बी.एससी. आदि, 'अनापत्ति प्रमाण पत्र' होना है
+संबंधित क्षेत्रीय केंद्र / अध्ययन केंद्र से प्राप्त किया गया जहां शिक्षार्थी अपना स्थानांतरण चाहता है।
 
-In case any learner is keen for transfer from Army/Navy/ Air Force Regional Centre to any other
-Regional Centre of the University during the cycle/session, he/she would have to pay the fee-share
-money to the Regional Centre. In case the learner seeks transfer at the beginning of the session/cycle,
-the required programme course fee for the session/cycle shall be deposited at the Regional Centre.
-However, the transfer shall be subject to availability of seats wherever applicable.
+यदि कोई शिक्षार्थी थल सेना/नौसेना/वायु सेना क्षेत्रीय केंद्र से किसी अन्य में स्थानांतरण के लिए इच्छुक है
+विश्वविद्यालय के क्षेत्रीय केंद्र को साइकिल/सत्र के दौरान फीस-शेयर का भुगतान करना होगा
+क्षेत्रीय केंद्र के लिए पैसा। यदि शिक्षार्थी सत्र/चक्र की शुरुआत में स्थानांतरण चाहता है,
+सत्र/चक्र के लिए अपेक्षित कार्यक्रम पाठ्यक्रम शुल्क क्षेत्रीय केंद्र पर जमा किया जाएगा।
+हालांकि, स्थानांतरण जहां भी लागू हो, सीटों की उपलब्धता के अधीन होगा।
 
-The learner can seek transfer to any other overseas study centre only after six months of
-Registration or submission of first year/semester assignments for the programme of one year or longer
-duration.
+शिक्षार्थी छह महीने के बाद ही किसी अन्य विदेशी अध्ययन केंद्र में स्थानांतरण की मांग कर सकता है
+एक वर्ष या उससे अधिक के कार्यक्रम के लिए प्रथम वर्ष/सेमेस्टर सत्रीय कार्यों का पंजीकरण या जमा करना
+अवधि।
 
-## Eligibility for Term End Examinations
+## सत्रांत परीक्षाओं के लिए पात्रता
 
-The learners are instructed to **refer to Page No. 12, para 1.10** Evaluation System sub-head **‘Term-end Examination and Payment of Examination Fee’** before submitting Examination Form for
-appearing in the June as well as December Term-end examination. A learner having exhausted the
-maximum duration of a programme should not apply for appearing at the Term-end examination of any course without getting re- registered/sought readmission for the same. Otherwise, the result would
-be with held in such cases.
+शिक्षार्थियों को निर्देश दिया जाता है कि वे परीक्षा फॉर्म जमा करने से पहले **पृष्ठ संख्या 12, पैरा 1.10** मूल्यांकन प्रणाली उप-शीर्ष \*\*'सत्रांत परीक्षा और परीक्षा शुल्क का भुगतान' देखें।
+जून के साथ-साथ दिसंबर सत्रांत परीक्षा में शामिल होना। एक शिक्षार्थी थक गया है
+कार्यक्रम की अधिकतम अवधि किसी भी पाठ्यक्रम की सत्रांत परीक्षा में शामिल होने के लिए पुन: पंजीकृत/उसके लिए पुनः प्रवेश मांगे बिना लागू नहीं होनी चाहिए। नहीं तो परिणाम होगा
+ऐसे मामलों में साथ रहे।
 
-The students seeking admission to CBCS based Bachelor Degree Programme in July 2019 admission
-session will be allowed to appear for the term end examinations for all the courses of first and second
-semesters together in June 2020 TEE only. Subsequently, as per the existing practices they will be
-allowed to appear in both December and June term end exam to complete their courses. Students can
-appear for the TEE for only those courses for which the student has opted and has submitted the
-assignment within the stipulated period.
+जुलाई 2019 में सीबीसीएस आधारित बैचलर डिग्री प्रोग्राम में प्रवेश पाने के इच्छुक छात्र प्रवेश
+सत्र को प्रथम और द्वितीय के सभी पाठ्यक्रमों के लिए सत्रांत परीक्षाओं में बैठने की अनुमति दी जाएगी
+जून 2020 में एक साथ सेमेस्टर केवल टीईई। इसके बाद, मौजूदा प्रथाओं के अनुसार वे होंगे
+अपने पाठ्यक्रम को पूरा करने के लिए दिसंबर और जून दोनों अवधि के अंत परीक्षा में बैठने की अनुमति दी गई है। छात्र कर सकते हैं
+केवल उन पाठ्यक्रमों के लिए टीईई के लिए उपस्थित हों जिनके लिए छात्र ने चुना है और जमा किया है
+निर्धारित अवधि के भीतर असाइनमेंट।
 
-## Foreign Students
+## विदेशी छात्र
 
-Foreign students residing in India having valid student visa for the minimum duration of the
-programme are eligible to seek admission in IGNOU’s selected programmes on payment of
-international fee applicable for them. For programme fee and other charges the student can visit
-“INTERNATIONAL STUDENTS” icon on IGNOU’s website or contact the Director, International Division,
-IGNOU, Maidan Garhi, New Delhi 110 068. Admission of foreign student residing in India will be
-processed by the International Division of the University after ensuring their antecedents from the
-Ministry of External Affairs/ Ministry of Human Resource Development. Programmes with limited
-number of seats are not offered to foreign students.
+भारत में रहने वाले विदेशी छात्रों के पास न्यूनतम अवधि के लिए वैध छात्र वीजा है
+कार्यक्रम के भुगतान पर इग्नू के चयनित कार्यक्रमों में प्रवेश लेने के लिए पात्र हैं
+उनके लिए लागू अंतरराष्ट्रीय शुल्क। कार्यक्रम शुल्क और अन्य शुल्क के लिए छात्र यहां जा सकते हैं
+इग्नू की वेबसाइट पर "अंतर्राष्ट्रीय छात्र" आइकन या निदेशक, अंतर्राष्ट्रीय प्रभाग से संपर्क करें,
+इग्नू, मैदान गढ़ी, नई दिल्ली 110 068. भारत में रहने वाले विदेशी छात्रों का प्रवेश होगा
+से अपने पूर्ववृत्त को सुनिश्चित करने के बाद विश्वविद्यालय के अंतर्राष्ट्रीय प्रभाग द्वारा संसाधित किया जाता है
+विदेश मंत्रालय/मानव संसाधन विकास मंत्रालय। सीमित के साथ कार्यक्रम
+विदेशी छात्रों को सीटों की संख्या की पेशकश नहीं की जाती है।
 
-In case of any query / information, FSRI and overseas students are advised to refer international
-prospectus available on the website of the university.
+किसी भी प्रश्न/सूचना के मामले में, एफएसआरआई और विदेशी छात्रों को सलाह दी जाती है कि वे अंतरराष्ट्रीय संदर्भ लें
+विवरणिका विश्वविद्यालय की वेबसाइट पर उपलब्ध है।
 
-## Guidelines for Admission in respect of International Students residing in India
+## भारत में रहने वाले अंतर्राष्ट्रीय छात्रों के संबंध में प्रवेश के लिए दिशानिर्देश
 
-1. Download the Admission form for the respective Programme from IGNOU’s website www.ignou.ac.in.
+1. इग्नू की वेबसाइट www.ignou.ac.in से संबंधित कार्यक्रम के लिए प्रवेश पत्र डाउनलोड करें।
 
-2. Fill up all the columns of the Admission forms and attach the relevant documents (as mentioned in
-   the Prospectus) along with fee and cost of registration fee.
+2. प्रवेश फॉर्म के सभी कॉलम भरें और संबंधित दस्तावेज संलग्न करें (जैसा कि में उल्लिखित है)
+   विवरणिका) शुल्क और पंजीकरण शुल्क की लागत के साथ।
 
-3. Submit the hard copy of the form along with documents and fees at the following address Director,
-   International Division, IGNOU, Block No. 15. Section K, Maidan Garhi. New Delhi.
+3. निम्नलिखित पते पर दस्तावेजों और शुल्क के साथ फॉर्म की हार्ड कॉपी जमा करें निदेशक,
+   इंटरनेशनल डिवीजन, इग्नू, ब्लॉक नंबर 15. सेक्शन के, मैदान गढ़ी। नई दिल्ली।
 
-4. The learner must fill all the Columns of the Admission Form, failing which the admission form will not be
-   processed for admission. The complete applications should reach at the above address not later than the last
-   date of submission of forms.
+4. शिक्षार्थी को प्रवेश फार्म के सभी कॉलमों को भरना होगा, ऐसा न करने पर प्रवेश फार्म नहीं होगा
+   प्रवेश के लिए संसाधित। पूरा आवेदन उपरोक्त पते पर अंतिम से बाद में नहीं पहुंचना चाहिए
+   फॉर्म जमा करने की तिथि।
 
-5. The learner may apply only for those courses for which International fees have been prescribed.
+5. शिक्षार्थी केवल उन्हीं पाठ्यक्रमों के लिए आवेदन कर सकता है जिनके लिए अंतर्राष्ट्रीय शुल्क निर्धारित किया गया है।
 
-6. The learner will have to produce the valid STUDY VISA for the minimum duration of the programme.
-   Presently, the students from Nepal and Bhutan are not required to submit the Study Visa.
+6. शिक्षार्थी को कार्यक्रम की न्यूनतम अवधि के लिए वैध अध्ययन वीजा प्रस्तुत करना होगा।
+   वर्तमान में, नेपाल और भूटान के छात्रों को अध्ययन वीजा जमा करने की आवश्यकता नहीं है।
 
-7. The learner will have to remit the International Fees of Programme.
+7. शिक्षार्थी को कार्यक्रम के अंतर्राष्ट्रीय शुल्क का भुगतान करना होगा।
 
-8. The fee has to be remitted through Bank Draft favouring’’ IGNOU’’ payable at “New Delhi”.
+8. शुल्क "नई दिल्ली" में देय '' इग्नू '' के पक्ष में बैंक ड्राफ्ट के माध्यम से प्रेषित किया जाना है।
 
-9. The learner should possess the minimum qualification specified for the Programme. However, for
-   equivalence of the qualification of the candidate reference may be made to Booklet “Equivalence of Foreign
-   Degrees”published by Association of Indian University. In case the Degree/Certificate possessed by the
-   candidate is in a language other than English or Hindi, a translated copy duly verified by the concerned
-   Embassy should be submitted.
+9. शिक्षार्थी के पास कार्यक्रम के लिए निर्दिष्ट न्यूनतम योग्यता होनी चाहिए। हालांकि, के लिए
+   उम्मीदवार संदर्भ की योग्यता की समानता पुस्तिका "विदेशी की समानता" के लिए बनाई जा सकती है
+   डिग्री” एसोसिएशन ऑफ इंडियन यूनिवर्सिटी द्वारा प्रकाशित। मामले में डिग्री / प्रमाण पत्र के पास
+   उम्मीदवार अंग्रेजी या हिंदी के अलावा किसी अन्य भाषा में है, संबंधित द्वारा विधिवत सत्यापित एक अनुवादित प्रति
+   दूतावास प्रस्तुत किया जाना चाहिए।
 
-10. The fees once paid will neither be refunded nor transferred. However, in cases where University denies
-    admission, the programme fee will be refunded through A/c Payee Cheque only.
+10. एक बार भुगतान की गई फीस न तो वापस की जाएगी और न ही हस्तांतरित की जाएगी। हालांकि, ऐसे मामलों में जहां विश्वविद्यालय इनकार करता है
+    प्रवेश, कार्यक्रम शुल्क केवल ए / सी पेयी चेक के माध्यम से वापस किया जाएगा।
 
-11. The student needs to submit NO OBJECTION CERTIFICATE from the concerned embassy. In the letter
-    it should be clearly written that the Embassy has no objection regarding study of the concerned student in
-    IGNOU as well as extension of visa from time to time. PIO / OCI Card holders are not required to submit the
-    NOC from concerned Embassy.
+11. छात्र को संबंधित दूतावास से अनापत्ति प्रमाण पत्र जमा करना होगा। पत्र में
+    यह स्पष्ट रूप से लिखा जाना चाहिए कि दूतावास को संबंधित छात्र के अध्ययन के संबंध में कोई आपत्ति नहीं है
+    इग्नू के साथ-साथ समय-समय पर वीजा का विस्तार। पीआईओ / ओसीआई कार्ड धारकों को जमा करने की आवश्यकता नहीं है
+    संबंधित दूतावास से एनओसी।
 
-12. PIO/OCI card holders and also Refugees (UNCHR) Card Holders will pay the fee applicable to
-    International Students.
+12. पीआईओ/ओसीआई कार्ड धारक और शरणार्थी (यूएनसीएचआर) कार्ड धारक निम्नलिखित पर लागू शुल्क का भुगतान करेंगे।
+    अंतर्राष्ट्रीय छात्र।
 
-13. For further details you may visit:
+13. अधिक जानकारी के लिए आप यहां जा सकते हैं:
     http://www.ignou.ac.in/ignou/aboutignou/division/id/introduction
 
-## Change of Category
+## श्रेणी में परिवर्तन
 
-Please note that any request for change of category code shall not be entertained by the University after finalization of admissions. Similarly, for the entrance test based and merit based programmes,
-request for change of category will not be entertained once the Forms are finally submitted by the
-prospective learners.
+कृपया ध्यान दें कि प्रवेश को अंतिम रूप देने के बाद विश्वविद्यालय द्वारा श्रेणी कोड में परिवर्तन के किसी भी अनुरोध पर विचार नहीं किया जाएगा। इसी तरह, प्रवेश परीक्षा आधारित और योग्यता आधारित कार्यक्रमों के लिए,
+एक बार फॉर्म को अंतिम रूप से जमा करने के बाद श्रेणी में परिवर्तन के अनुरोध पर विचार नहीं किया जाएगा
+भावी शिक्षार्थी।
 
-## Correction/Change of Name/Surname of Learner
+## शिक्षार्थी के नाम/उपनाम में सुधार/परिवर्तन
 
-Spelling mistakes, if any, committed at the time of data entry stage will be rectified at the Regional
-Centre and corrected data transmitted to Student Registration Division for updating in the database.
-However, Learners are expected to write their correct name (as indicated in the High School
-Certificate) in the Admission Form. In case any change in the name (other than the one mentioned in
-his/her High School Certificate), then it is mandatory for the prospective learners to furnish legal
-evidence of having changed his/her name/ surname while submitting the admission form.
+डेटा प्रविष्टि चरण के समय की गई वर्तनी की गलतियों, यदि कोई हो, को क्षेत्रीय स्तर पर सुधारा जाएगा
+डेटाबेस में अद्यतन करने के लिए छात्र पंजीकरण प्रभाग को प्रेषित केंद्र और सही डेटा।
+हालाँकि, शिक्षार्थियों से अपना सही नाम लिखने की अपेक्षा की जाती है (जैसा कि हाई स्कूल में दर्शाया गया है
+प्रमाणपत्र) प्रवेश पत्र में। नाम में कोई परिवर्तन होने की स्थिति में (उल्लेखित नाम के अलावा)
+उसका हाई स्कूल सर्टिफिकेट), तो संभावित शिक्षार्थियों के लिए कानूनी प्रस्तुत करना अनिवार्य है
+प्रवेश पत्र जमा करते समय अपना नाम / उपनाम बदलने का प्रमाण।
 
-For Change of Name/Surname, after confirmation of admission, the learners are required to submit the
-following documents at the Regional Centre, for on ward transmission to Registrar, SRD:
+नाम/उपनाम बदलने के लिए, प्रवेश की पुष्टि के बाद, शिक्षार्थियों को प्रस्तुत करना आवश्यक है
+रजिस्ट्रार, एसआरडी को वार्ड ट्रांसमिशन के लिए क्षेत्रीय केंद्र में निम्नलिखित दस्तावेज:
 
-1. Original copy of Notification in a daily newspaper notifying the change of name;
-2. Affidavit, in original, on non-judicial Stamp Paper of the appropriate value sworn in before 1st
-   Class Magistrate specifying the change in the name;
-3. Marriage Card/Marriage Certificate in case of women candidates for change in surname;
-4. Gazette Notification, in original, reflecting the change ofname/surname;
-5. Demand Draft of Rs.500/- drawn in favour of IGNOU payable at New Delhi.
+1. नाम के परिवर्तन की सूचना देने वाले दैनिक समाचार पत्र में अधिसूचना की मूल प्रति;
+2. शपथ पत्र, मूल रूप में, 1 . से पहले उचित मूल्य के गैर-न्यायिक स्टाम्प पेपर पर शपथ ली गई
+   नाम में परिवर्तन को निर्दिष्ट करते हुए क्लास मजिस्ट्रेट;
+3. उपनाम में परिवर्तन के लिए महिला उम्मीदवारों के मामले में विवाह कार्ड/विवाह प्रमाण पत्र;
+4. राजपत्र अधिसूचना, मूल रूप में, नाम/उपनाम के परिवर्तन को दर्शाती है;
+5. नई दिल्ली में देय इग्नू के पक्ष में 500/- रुपये का डिमांड ड्राफ्ट।
 
-**Request for correction and/or change of Name / Surname will be entertained only before award of the Degree/Diploma/Certificate. For change/correction of name after completion of programme, but before award of degree please see the guidelines available at: http://www.ignou.ac.in/userfiles/Notification%20(4)(3).pdf**
+**डिग्री/डिप्लोमा/प्रमाणपत्र प्रदान करने से पहले ही सुधार और/या नाम/उपनाम बदलने के अनुरोध पर विचार किया जाएगा। कार्यक्रम के पूरा होने के बाद, लेकिन डिग्री प्रदान करने से पहले नाम में परिवर्तन/सुधार के लिए कृपया यहां उपलब्ध दिशानिर्देश देखें: http://www.ignou.ac.in/userfiles/Notification%20(4)(3).pdf**
 
-## Disputes on Admission & other University Matters
+## प्रवेश और अन्य विश्वविद्यालय मामलों पर विवाद
 
-The University takes appropriate administrative and disciplinary maesures for smooth functioning of its
-day-to-day operationsin accordance with the prevailing rules and guidelines. In case of disputes on
-Admission and other University Matters, the place of jurisdiction of filing of law suit, if necessary, will be
-New Delhi/Delhi ONLY.
+विश्वविद्यालय अपने सुचारू संचालन के लिए उचित प्रशासनिक और अनुशासनात्मक उपाय करता है
+प्रचलित नियमों और दिशानिर्देशों के अनुसार दिन-प्रतिदिन के संचालन। विवाद के मामले में
+प्रवेश एवं अन्य विश्वविद्यालय मामले, यदि आवश्यक हो तो विधि वाद दायर करने के क्षेत्राधिकार का स्थान होगा
+केवल नई दिल्ली/दिल्ली।
 
-## Recognition of IGNOU Programmes
+## इग्नू के कार्यक्रमों को मान्यता
 
-The degrees awarded by IGNOU are recognized by UGC.
-The details are available at http://ignou.ac.in/ignou/aboutignou/division/srd/Recognition.
+इग्नू द्वारा प्रदान की जाने वाली डिग्री यूजीसी द्वारा मान्यता प्राप्त हैं।
+विवरण http://ignou.ac.in/ignou/aboutignou/division/srd/Recognition पर उपलब्ध हैं।
 
-IGNOU Degrees/Diplomas/Certificates are recognized by all member universities of the Association of
-Indian Universities (AIU) and
-are at par with Degrees/Diplomas/ Certificates of all Indian Universities/ Institutions, as per UGC
-Circular letter No.F.1-52/2000(CPP-II) dated 5thMay,2004.
+इग्नू डिग्री/डिप्लोमा/प्रमाणपत्र एसोसिएशन के सभी सदस्य विश्वविद्यालयों द्वारा मान्यता प्राप्त हैं
+भारतीय विश्वविद्यालय (एआईयू) और
+यूजीसी के अनुसार सभी भारतीय विश्वविद्यालयों/संस्थानों की डिग्री/डिप्लोमा/प्रमाण पत्र के बराबर हैं
+परिपत्र संख्या एफ.1-52/2000(सीपीपी-II) दिनांक 5 मई, 2004।
 
-## Reservation for Economically Weaker Sections (EWS) for admission in Central Educational
+## केंद्रीय शैक्षिक में प्रवेश के लिए आर्थिक रूप से कमजोर वर्गों (ईडब्ल्यूएस) के लिए आरक्षण
 
-Institutions
-Ministry of Human Resource Development, Department of Higher Education, Govt. of India, vide their
-Office Memorandum F.No. 12-4/2019-Ul, dated 17 th January, 2019, on the subject cited above, has
-conveyed that in accordance with the provisions of the Constitution (One Hundred and Third
-Amendment) Act 2019, and in reference of Ministry of Social Justice and Empowerment vide OM No.
-20013/01/2018-BC-II dated 17th January, 2019, enabling provision of reservation for the Economically
-Weaker Sections (EWSs) who are not covered under the existing scheme of reservations for the
-Scheduled Castes, the Scheduled Tribes and the Socially and Educationally backward Classes, it has
-been decided to provide reservation in admission to educational Institutions subject to a maximum of
-ten per cent of the total seats in each category. The provision of reservations to the Economically
-Weaker Sections shall be in accordance with the directionscontained in the OM No. 20013/01/2018-8C-
-11 dated 17th January, 2019 of the Ministry of Social Justice & Empowerment subject to the condition
-mentioned in the Office Memorandum of MHRD.
+संस्थानों
+मानव संसाधन विकास मंत्रालय, उच्च शिक्षा विभाग, सरकार। भारत के, उनके
+कार्यालय ज्ञापन F.No. 12-4/2019-उल, दिनांक 17 जनवरी, 2019, ऊपर उल्लिखित विषय पर है
+सूचित किया कि संविधान के प्रावधानों के अनुसार (एक सौ तिहाई
+संशोधन) अधिनियम 2019, और सामाजिक न्याय और अधिकारिता मंत्रालय के संदर्भ में का.ज्ञा. सं.
+20013/01/2018-बीसी-द्वितीय दिनांक 17 जनवरी, 2019, आर्थिक रूप से आरक्षण के प्रावधान को सक्षम बनाता है
+कमजोर वर्ग (ईडब्ल्यूएस) जो आरक्षण की मौजूदा योजना के तहत कवर नहीं हैं
+अनुसूचित जाति, अनुसूचित जनजाति और सामाजिक और शैक्षिक रूप से पिछड़े वर्ग, इसमें है
+शैक्षणिक संस्थानों में प्रवेश में अधिकतम के अधीन आरक्षण प्रदान करने का निर्णय लिया गया है
+प्रत्येक श्रेणी में कुल सीटों का दस प्रतिशत। आर्थिक रूप से आरक्षण का प्रावधान
+कमजोर वर्गों को कार्यालय ज्ञापन संख्या 20013/01/2018-8सी में निहित निर्देशों के अनुसार होना चाहिए-
+11 दिनांक 17 जनवरी, 2019 सामाजिक न्याय और अधिकारिता मंत्रालय की शर्त के अधीन
+एमएचआरडी के कार्यालय ज्ञापन में उल्लेख किया गया है।
 
-Accordingly, the reservations shall be provided to EWSs for admission in the University from the
-academic year 2019-20 onwards beginning academic session July2019. The reservation shall be
-applicable only in Programmes having seat restriction.
+तदनुसार, विश्वविद्यालय में प्रवेश के लिए ईडब्ल्यूएस को आरक्षण प्रदान किया जाएगा
+शैक्षणिक सत्र 2019-20 के बाद से शैक्षणिक सत्र जुलाई 2019 से शुरू हो रहा है। आरक्षण होगा
+केवल सीट प्रतिबंध वाले कार्यक्रमों में लागू।
 
-## Digital Study Material
+## डिजिटल अध्ययन सामग्री
 
-The University has digitized the study material for different prorammes. The digitized material is
-available on eGyankosh, the digital repository of the University.
+विश्वविद्यालय ने विभिन्न कार्यक्रमों के लिए अध्ययन सामग्री का डिजिटलीकरण किया है। डिजीटल सामग्री है
+विश्वविद्यालय के डिजिटल रिपोजिटरी eGyankosh पर उपलब्ध है।
 
-The University encourages the use of digital study material. It has been decided that as an incentive
-**15% concession shall be given to the students who opt for digital study material in place of printed study material.**
+विश्वविद्यालय डिजिटल अध्ययन सामग्री के उपयोग को प्रोत्साहित करता है। यह निर्णय लिया गया है कि प्रोत्साहन के रूप में
+**उन छात्रों को 15% की छूट दी जाएगी जो मुद्रित अध्ययन सामग्री के स्थान पर डिजिटल अध्ययन सामग्री का विकल्प चुनते हैं।**
 
-## KVS Employees
+## केवीएस कर्मचारी
 
-As per the agreement with Kendriya Vidyalaya Sangathan (KVS), One hundred students are entitled to
-get 50% fee concession in the programmes offered by the University during a year. All the KVS
-employees seeking admission may send their applications alongwith the requisite full programme fee
-directly to the Concerned Regional Centres without routing through IGNOU HQs. However the
-employees may follow the rules and procedures laid down by the KVS HQs, New Delhi, as regards to
-obtaining permission etc. The reimbursement in fees of 50% will be made only to such candidates duly
-recommended by the KVS HQs to SRD, IGNOU HQs. The reimbursement will be made by the concerned
-Regional Centre of IGNOU, on getting the communication only from Student Registration Division (SRD),
-IGNOU HQs.
+केन्द्रीय विद्यालय संगठन (केवीएस) के साथ समझौते के अनुसार, एक सौ छात्र के हकदार हैं
+एक वर्ष के दौरान विश्वविद्यालय द्वारा प्रस्तावित कार्यक्रमों में 50% शुल्क रियायत प्राप्त करें। सभी केवीएस
+प्रवेश पाने के इच्छुक कर्मचारी अपेक्षित पूर्ण कार्यक्रम शुल्क के साथ अपने आवेदन पत्र भेज सकते हैं
+इग्नू मुख्यालयों के माध्यम से रूट किए बिना सीधे संबंधित क्षेत्रीय केंद्रों को। हालांकि
+कर्मचारी केवीएस मुख्यालय, नई दिल्ली द्वारा निर्धारित नियमों और प्रक्रियाओं का पालन कर सकते हैं
+अनुमति प्राप्त करना आदि। 50% शुल्क की प्रतिपूर्ति केवल ऐसे उम्मीदवारों को विधिवत रूप से की जाएगी
+केवीएस मुख्यालय द्वारा एसआरडी, इग्नू मुख्यालय को अनुशंसित। प्रतिपूर्ति संबंधित द्वारा की जाएगी
+इग्नू का क्षेत्रीय केंद्र, केवल छात्र पंजीकरण प्रभाग (एसआरडी) से संचार प्राप्त करने पर,
+इग्नू मुख्यालय।

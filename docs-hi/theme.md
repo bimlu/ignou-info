@@ -1,8 +1,8 @@
-> Switch Theme
+> थीम स्विच करें
 
 <div class="demo-theme-preview">
-  <a data-theme="vue">Light</a>
-  <a data-theme="dark">Dark</a>
+  <a data-theme="vue">प्रकाश</a>
+  <a data-theme="dark">अंधेरा</a>
 </div>
 
 <style>

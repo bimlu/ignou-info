@@ -42,4 +42,4 @@ info.ignouwala.com इग्नू (इंदिरा गांधी राष
 ## विशेष धन्यवाद
 
 _ignou.ac.in_
-_समर्थ.edu.in_
+_samrath.edu.in_

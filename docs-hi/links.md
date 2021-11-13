@@ -1,278 +1,278 @@
-## Admission for ODL Programmes
+## ओडीएल कार्यक्रमों के लिए प्रवेश
 
-_ODL: Online Distance Learning._
+_ODL: ऑनलाइन दूरस्थ शिक्षा._
 
-> [Admission Link](https://ignouadmission.samarth.edu.in/)
+> [प्रवेश लिंक] (https://ignouadmission.samarth.edu.in/)
 
-**Available Programmes**
+**उपलब्ध कार्यक्रम**
 
-| Code      | Programme                                                                                                    |
-| :-------- | :----------------------------------------------------------------------------------------------------------- |
-| ACISE     | ADVANCE CERTIFICATE IN INFORMATION SECURITY                                                                  |
-| ACPDM     | ADVANCED CERTIFICATE IN POWER DISTRIBUTION MANAGEMENT                                                        |
-| ACE       | Appreciation Course on Environment                                                                           |
-| ACPSD     | Appreciation Course on Population and Sustainable Development                                                |
-| APDF      | Awareness Programme on Dairy Farming                                                                         |
-| BAPFHMH   | BA (PERFORMING ARTS) HINDUSTANI MUSIC HONOURS                                                                |
-| BAG       | BACHELOR OF ARTS                                                                                             |
-| BTS       | BACHELOR OF ARTS (TOURISM STUDIES)                                                                           |
-| BAECH     | Bachelor of Arts (HONOURS) ECONOMICS                                                                         |
-| BAEGH     | BACHELOR OF ARTS (HONOURS) ENGLISH                                                                           |
-| BAHDH     | BACHELOR OF ARTS (HONOURS) HINDI                                                                             |
-| BAHIH     | BACHELOR OF ARTS (HONOURS) HISTORY                                                                           |
-| BAPAH     | BACHELOR OF ARTS (HONOURS) PUBLIC ADMINISTRATION                                                             |
-| BAPSH     | Bachelor of Arts (Hons) Political Science                                                                    |
-| BAVTM     | Bachelor of Arts (Vocational Studies) Tourism Management                                                     |
-| BAPCH     | Bachelor of Arts(Hons) Psychology                                                                            |
-| BASOH     | Bachelor of Arts(Hons) Sociology                                                                             |
-| BBARL     | Bachelor of Business Administration(RETAILING)                                                               |
-| BCOMG     | Bachelor of Commerce                                                                                         |
-| BCOMCAA   | BACHELOR OF COMMERCE (CORPORATE AFFAIRS AND ADMINISTRATION)                                                  |
-| BCOMAF    | Bachelor of Commerce(Accountancy and Finance)                                                                |
-| BCOMFCA   | Bachelor of Commerce(FINANCIAL AND COST ACCOUNTING)                                                          |
-| BCA       | BACHELOR OF COMPUTER APPLICATIONS                                                                            |
-| BLIS      | BACHELOR OF LIBRARY AND INFORMATION SCIENCE                                                                  |
-| BSCG      | Bachelor of Science                                                                                          |
-| BSCANH    | BACHELOR OF SCIENCE (HONOURS) ANTHROPOLOGY                                                                   |
-| BSCBCH    | Bachelor of Science(Hons) Biochemistry                                                                       |
-| BSWG      | Bachelor of Social Work                                                                                      |
-| CIHL      | CERT. IN INTERNATIONAL HUMANITARIAN LAW                                                                      |
-| CRUL      | CERTIFICATE IN RUSSIAN LANGUAGE                                                                              |
-| CAHT      | CERTIFICATE IN ANTI HUMAN TRAFFICKING                                                                        |
-| CIB       | CERTIFICATE IN BEEKEEPING                                                                                    |
-| CBS       | CERTIFICATE IN BUSINESS SKILLS                                                                               |
-| CCITSK    | Certificate in Communication & IT Skills                                                                     |
-| CCR       | CERTIFICATE IN COMMUNITY RADIO                                                                               |
-| CCP       | Certificate in Consumer Protection                                                                           |
-| CDM       | CERTIFICATE IN DISASTER MANAGEMENT                                                                           |
-| CETM      | Certificate in Energy Technology and Management                                                              |
-| CES       | CERTIFICATE IN ENVIRONMENTAL STUDIES                                                                         |
-| CFDE      | CERTIFICATE IN FASHION DESIGN                                                                                |
-| CFAID     | CERTIFICATE IN FIRST AID                                                                                     |
-| CFN       | CERTIFICATE IN FOOD AND NUTRITION                                                                            |
-| CFL       | CERTIFICATE IN FRENCH LANGUAGE                                                                               |
-| CFE       | CERTIFICATE IN FUNCTIONAL ENGLISH                                                                            |
-| CGAS      | Certificate in Gender, Agriculture and Sustainable Development                                               |
-| CGDA      | CERTIFICATE IN GENERAL DUTY ASSISTANCE                                                                       |
-| CGCA      | CERTIFICATE IN GERIATRIC CARE ASSISTANCE                                                                     |
-| CGL       | Certificate in German Language                                                                               |
-| CIG       | CERTIFICATE IN GUIDANCE                                                                                      |
-| CHCWM     | CERTIFICATE IN HEALTH CARE WASTE MANAGEMENT                                                                  |
-| CHBHC     | CERTIFICATE IN HOME BASED HEALTH CARE                                                                        |
-| CHHA      | CERTIFICATE IN HOME HEALTH ASSISTANCE                                                                        |
-| CHR       | CERTIFICATE IN HUMAN RIGHTS                                                                                  |
-| CIT       | CERTIFICATE IN INFORMATION TECHNOLOGY                                                                        |
-| CJL       | Certificate in Japanese Language                                                                             |
-| CKLC      | CERTIFICATE IN KOREAN LANGUAGE & CULTURE                                                                     |
-| CLIS      | CERTIFICATE IN LIBRARY AND INFORMATION SCIENCE                                                               |
-| CMCHN     | CERTIFICATE IN MATERNAL AND CHILD HEALTH NURSING                                                             |
-| CMAD      | Certificate in Mobile Application Development                                                                |
-| CNCC      | CERTIFICATE IN NUTRITION AND CHILD CARE                                                                      |
-| COF       | CERTIFICATE IN ORGANIC FARMING                                                                               |
-| CPAHM     | CERTIFICATE IN PERFORMING ARTS -HINDUSTANI MUSIC                                                             |
-| CPABN     | CERTIFICATE IN PERFORMING ARTS-BHARATNATYAM                                                                  |
-| CPAKM     | CERTIFICATE IN PERFORMING ARTS-KARNATAK MUSIC                                                                |
-| CPATHA    | CERTIFICATE IN PERFORMING ARTS-THEATRE ARTS                                                                  |
-| CPEL      | CERTIFICATE IN PERSIAN LANGUAGE                                                                              |
-| CPHA      | CERTIFICATE IN PHLEBOTOMY ASSISTANCE                                                                         |
-| CPF       | CERTIFICATE IN POULTRY FARMING                                                                               |
-| CRD       | CERTIFICATE IN RURAL DEVELOPMENT                                                                             |
-| CIS       | CERTIFICATE IN SERICULTURE                                                                                   |
-| CSWM      | Certificate in Solid Waste Management                                                                        |
-| CSWATT    | Certificate in Solid Waste Treatment Techniques                                                              |
-| CSLC      | CERTIFICATE IN SPANISH LANGUAGE & CULTURE                                                                    |
-| CTE       | Certificate in Teaching of English as a Second Language                                                      |
-| CTPM      | CERTIFICATE IN TEACHING OF PRIMARY SCHOOL MATHEMATICS                                                        |
-| CTS       | CERTIFICATE IN TOURISM STUDIES                                                                               |
-| CTRBS     | CERTIFICATE IN TRIBALS STUDIES                                                                               |
-| CUL       | CERTIFICATE IN URDU LANGUAGE                                                                                 |
-| CVAP      | CERTIFICATE IN VISUAL ARTS PAINTING                                                                          |
-| CVAA      | CERTIFICATE IN VISUAL ARTS-APPLIED ARTS                                                                      |
-| CWHM      | CERTIFICATE IN WATER HARVESTING AND MANAGEMENT                                                               |
-| CCPD      | Certificate of Competency in Power Distribution (Electrical Technicians)                                     |
-| CLTA      | CERTIFICATE PROG. ON LIFE AND THOUGHT OF DR. B.R. AMBEDKAR                                                   |
-| CNIN      | CERTIFICATE PROGRAM IN NEWBORN AND INFANT NURSING                                                            |
-| CNM       | CERTIFICATE PROGRAM IN NGO MANAGEMENT                                                                        |
-| CPLT      | CERTIFICATE PROGRAMME IN LABORATORY TECHNIQUES                                                               |
-| CPVE      | CERTIFICATE PROGRAMME IN VALUE EDUCATION                                                                     |
-| CPY       | CERTIFICATE PROGRAMME IN YOGA                                                                                |
-| CAHC      | Certificate(Adolescent Health and Counseling )                                                               |
-| CAL       | Certificate(Arabic Language)                                                                                 |
-| CCLBL     | Certificate(Co-operative Law & Business Laws)                                                                |
-| SSB       | Certificate(Communicative Sanskrit)                                                                          |
-| CCH       | Certificate(Community Health)                                                                                |
-| CFBO      | Certificate(Food & Beverage Service Operations )                                                             |
-| CFO       | Certificate(Front Office Operations )                                                                        |
-| CAFE      | Certificate(HIV and Family Education)                                                                        |
-| CHO       | Certificate(Housekeeping Operations )                                                                        |
-| CPSCM     | Certificate(Peace Studies and Conflict Management )                                                          |
-| CSWCJS    | Certificate(SOCIAL WORK AND CRIMINAL JUSTICE SYSTEM)                                                         |
-| CRCS      | Coursewise Registration and Certification Scheme                                                             |
-| DAQ       | DIPLOMA IN AQUACULTURE                                                                                       |
-| DBPOFA    | DIPLOMA IN BUSINESS PROCESS OUTSOURCING FINANCE AND ACCOUNTING                                               |
-| DCE       | DIPLOMA IN CREATIVE WRITING IN ENGLISH                                                                       |
-| DCCN      | DIPLOMA IN CRITICAL CARE NURSING                                                                             |
-| DDT       | DIPLOMA IN DAIRY TECHNOLOGY                                                                                  |
-| DECE      | DIPLOMA IN EARLY CHILDHOOD CARE AND EDUCATION                                                                |
-| DEVMT     | DIPLOMA IN EVENT MANAGEMENT                                                                                  |
-| DAFE      | DIPLOMA IN HIV AND FAMILY EDUCATION                                                                          |
-| DHORT     | DIPLOMA IN HORTICULTURE                                                                                      |
-| DMT       | DIPLOMA IN MEAT TECHNOLOGY                                                                                   |
-| DMOP      | Diploma in Modern Office Practice                                                                            |
-| DNHE      | DIPLOMA IN NUTRITION AND HEALTH EDUCATION                                                                    |
-| DPLAD     | DIPLOMA IN PANCHAYAT LEVEL ADMINISTRATION AND DEVELOPMENT                                                    |
-| DIPP      | DIPLOMA IN PARALEGAL PRACTICE                                                                                |
-| DIR       | DIPLOMA IN RETAILING                                                                                         |
-| DSCDM     | Diploma in Smart City Development and Management                                                             |
-| DTG       | DIPLOMA IN TEACHING GERMAN AS A FOREIGN LANGUAGE                                                             |
-| DTH       | Diploma in Theatre Arts                                                                                      |
-| DTS       | DIPLOMA IN TOURISM STUDIES                                                                                   |
-| DUL       | DIPLOMA IN URDU                                                                                              |
-| DPVE      | Diploma in Value Education                                                                                   |
-| DWM       | DIPLOMA IN WATERSHED MANAGEMENT                                                                              |
-| DWED      | DIPLOMA IN WOMENS EMPOWERMENT AND DEVELOPMENT                                                                |
-| DVAPFV    | DIPLOMA PROGRAMME IN VALUE ADDED PRODUCTS FROM FRUITS & VEG.                                                 |
-| MTTM      | MASTER OF TOURISM AND TRAVEL MANAGEMENT                                                                      |
-| MAAE      | MASTER OF ARTS (ADULT EDUCATION)                                                                             |
-| MAAN      | MASTER OF ARTS (ANTHROPOLOGY)                                                                                |
-| MADVS     | MASTER OF ARTS (DEVELOPMENT STUDIES)                                                                         |
-| MADE      | MASTER OF ARTS (DISTANCE EDUCATION)                                                                          |
-| MEC       | MASTER OF ARTS (ECONOMICS)                                                                                   |
-| MEG       | MASTER OF ARTS (ENGLISH)                                                                                     |
-| MGPS      | MASTER OF ARTS (GANDHI AND PEACE STUDIES)                                                                    |
-| MAGD      | MASTER OF ARTS (GENDER AND DEVELOPMENT STUDIES)                                                              |
-| MHD       | MASTER OF ARTS (HINDI)                                                                                       |
-| MAH       | MASTER OF ARTS (HISTORY)                                                                                     |
-| MAJMC     | Master of Arts (Journalism & Mass Communication)                                                             |
-| MAPY      | MASTER OF ARTS (PHILOSOPHY)                                                                                  |
-| MPS       | MASTER OF ARTS (POLITICAL SCIENCE)                                                                           |
-| MAPC      | MASTER OF ARTS (PSYCHOLOGY)                                                                                  |
-| MPA       | MASTER OF ARTS (PUBLIC ADMINISTRATION)                                                                       |
-| MARD      | MASTER OF ARTS (RURAL DEVELOPMENT)                                                                           |
-| MSO       | MASTER OF ARTS (SOCIOLOGY)                                                                                   |
-| MATS      | MASTER OF ARTS (TRANSLATION STUDIES)                                                                         |
-| MAWGS     | MASTER OF ARTS (WOMEN AND GENDER STUDIES)                                                                    |
-| MADP      | Master of Arts(Drawing and Painting)                                                                         |
-| MAEDU     | Master of Arts(Education)                                                                                    |
-| MAER      | Master of Arts(Entrepreneurship)                                                                             |
-| MAFCS     | Master of Arts(FOLKLORE AND CULTURE STUDIES)                                                                 |
-| MAJY      | Master of Arts(JYOTISH)                                                                                      |
-| MSK       | Master of Arts(Sanskrit)                                                                                     |
-| MAUD      | Master of Arts(URDU)                                                                                         |
-| MBF       | Master of Buisness Administration(Banking and Finance)                                                       |
-| MBA       | Master of Business Administration                                                                            |
-| MCOM      | MASTER OF COMMERCE                                                                                           |
-| MCOMBPCG  | MASTER OF COMMERCE IN BUSINESS POLICY AND CORPORATE GOVERNANCE                                               |
-| MCOMMAFS  | MASTER OF COMMERCE IN MANAGEMENT ACCOUNTING & FINANCIAL STRATEGIES                                           |
-| MCOMFT    | Master of Commerce(FINANCE AND TAXATION)                                                                     |
-| MCA_NEW   | Master of Computer Applications                                                                              |
-| MLIS      | MASTER OF LIBRARY AND INFORMATION SCIENCE                                                                    |
-| MSCCFT    | MASTER OF SCIENCE (COUNSELING AND FAMILY THERAPY)                                                            |
-| MSCENV    | Master of Science(Environmental Science)                                                                     |
-| MSCDFSM   | Master of Science(FOOD NUTRITION)                                                                            |
-| MSCIS     | Master of Science(Information Security)                                                                      |
-| MSW       | MASTER OF SOCIAL WORK                                                                                        |
-| MSWC      | Master of Social Work( Counselling)                                                                          |
-| PGCAE     | PG CERTIFICATE IN ADULT EDUCATION                                                                            |
-| PGCBHT    | PG CERTIFICATE IN BANGLA HINDI TRANSLATION PROGRAMME                                                         |
-| PGCCL     | PG CERTIFICATE IN CYBER LAW                                                                                  |
-| PGCGPS    | PG CERTIFICATE IN GANDHI AND PEACE STUDIES                                                                   |
-| PGCPP     | PG CERTIFICATE IN PATENT PRACTICE                                                                            |
-| PGDAC     | PG DIPLOMA IN ANALYTICAL CHEMISTRY                                                                           |
-| PGDCFT    | PG DIPLOMA IN COUNSELLING AND FAMILY THERAPY                                                                 |
-| PGDGPS    | PG DIPLOMA IN GANDHI & PEACE STUDIES                                                                         |
-| PGDIS     | PG DIPLOMA IN INFORMATION SECURITY                                                                           |
-| PGCAP     | POST GRADUATE CERTIFICATE IN AGRICULTURE POLICY                                                              |
-| PGCCC     | POST GRADUATE CERTIFICATE IN CLIMATE CHANGE                                                                  |
-| PGCGI     | POST GRADUATE CERTIFICATE IN GEOINFORMATICS                                                                  |
-| PGCINDS   | Post Graduate Certificate in Industrial Safety                                                               |
-| PGCIATIVI | POST GRADUATE CERTIFICATE IN INFORMATION AND ASSISTIVE TECHNOLOGIES FOR THE INSTRUCTORS OF VISUALLY IMPAIRED |
-| PGCIPWS   | Post Graduate Certificate in Inventory Planning and Warehousing System for Engineers                         |
-| PGCMHT    | POST GRADUATE CERTIFICATE IN MALAYALAM-HINDI TRANSLATION                                                     |
-| PGDFCS    | POST GRADUATE DIP. IN FOLKLORE AND CULTURE STUDIES                                                           |
-| PGDAE     | Post Graduate Diploma in Adult Education                                                                     |
-| PGDAW     | Post Graduate Diploma in Animal Welfare                                                                      |
-| PGDAST    | POST GRADUATE DIPLOMA IN APPLIED STATISTICS                                                                  |
-| PGDAPP    | POST GRADUATE DIPLOMA IN AUDIO PROGRAMME PRODUCTION                                                          |
-| PGDBP     | Post Graduate Diploma in Book Publishing                                                                     |
-| PGDCSR    | Post Graduate Diploma in Corporate Social Responsibility                                                     |
-| PGDDVS    | POST GRADUATE DIPLOMA IN DEVELOPMENT STUDIES                                                                 |
-| PGDDM     | POST GRADUATE DIPLOMA IN DISASTER MANAGEMENT                                                                 |
-| PGDET     | POST GRADUATE DIPLOMA IN EDUCATIONAL TECHNOLOGY                                                              |
-| PGDEOH    | POST GRADUATE DIPLOMA IN ENVIRONMENTAL AND OCCUPATIONAL HEALTH                                               |
-| PGDESD    | POST GRADUATE DIPLOMA IN ENVIRONMENTAL AND SUSTAINABLE DEVELOPMENT                                           |
-| PGDHE     | Post Graduate Diploma in Higher Education                                                                    |
-| PGDIPR    | POST GRADUATE DIPLOMA IN INTELLECTUAL PROPERTY RIGHTS                                                        |
-| PGDIBO    | POST GRADUATE DIPLOMA IN INTERNATIONAL BUSINESS OPERATION                                                    |
-| PGDLAN    | POST GRADUATE DIPLOMA IN LIBRARY AUTOMATION AND NETWORKING                                                   |
-| PGDMH     | POST GRADUATE DIPLOMA IN MENTAL HEALTH                                                                       |
-| PGDPSM    | POST GRADUATE DIPLOMA IN PHARMACEUTICAL SALES MGMT                                                           |
-| PGDPPED   | POST GRADUATE DIPLOMA IN PRE PRIMARY EDUCATION                                                               |
-| PGDRD     | POST GRADUATE DIPLOMA IN RURAL DEVELOPMENT                                                                   |
-| PGDSLM    | POST GRADUATE DIPLOMA IN SCHOOL LEADERSHIP AND MANAGEMENT                                                    |
-| PGDSS     | POST GRADUATE DIPLOMA IN SUSTAINBILITY SCIENCE                                                               |
-| PGDT      | POST GRADUATE DIPLOMA IN TRANSLATION                                                                         |
-| PGDUPDL   | POST GRADUATE DIPLOMA IN URBAN PLANNING AND DEVELOPMENT                                                      |
-| PGDWGS    | POST GRADUATE DIPLOMA IN WOMENS & GENDER STUDIES                                                             |
-| PGJMC     | Post Graduate Diploma( JOURNALISM & MASS COMMUNICATION)                                                      |
-| PGDOM     | Post Graduate Diploma( OPERATIONS MANAGEMENT)                                                                |
-| PGDCA_NEW | Post Graduate Diploma(Computer Applications)                                                                 |
-| PGDCJ     | Post Graduate Diploma(CRIMINAL JUSTICE)                                                                      |
-| PGDDC     | Post Graduate Diploma(Development Communication)                                                             |
-| PGDIDM    | Post Graduate Diploma(DIGITAL MEDIA)                                                                         |
-| PGDFM     | Post Graduate Diploma(Financial Management)                                                                  |
-| PGDFSQM   | Post Graduate Diploma(FOOD SAFETY & QUALITY MANAGEMENT)                                                      |
-| PGDHO     | Post Graduate Diploma(Hotel Operations)                                                                      |
-| PGDHRM    | Post Graduate Diploma(HUMAN RESOURCE MANAGEMENT)                                                             |
-| PGDMM     | Post Graduate Diploma(MARKETING MANAGEMENT)                                                                  |
-| PGDCOUN   | Post Graduate Diploma(Social Work Counselling)                                                               |
-| PGDEMA    | POST GRDUATE DIP IN EDUCATIONAL MGMT. & ADMINISTRATION                                                       |
+| कोड                 | कार्यक्रम                                                                                |
+| :------------------ | :--------------------------------------------------------------------------------------- |
+| एसीआईएसई            | सूचना सुरक्षा में अग्रिम प्रमाणपत्र                                                      |
+| एसीपीडीएम           | विद्युत वितरण प्रबंधन में उन्नत प्रमाण पत्र                                              |
+| ऐस                  | पर्यावरण पर प्रशंसा पाठ्यक्रम                                                            |
+| एसीपीएसडी           | जनसंख्या और सतत विकास पर प्रशंसा पाठ्यक्रम                                               |
+| एपीडीएफ             | डेयरी फार्मिंग पर जागरूकता कार्यक्रम                                                     |
+| BAPFHMH             | बीए (परफॉर्मिंग आर्ट्स) हिंदुस्तानी म्यूजिक ऑनर्स                                        |
+| बैग                 | कला स्नातक                                                                               |
+| बीटीएस              | कला स्नातक (पर्यटन अध्ययन)                                                               |
+| बाच                 | कला स्नातक (ऑनर्स) अर्थशास्त्र                                                           |
+| बेघ                 | कला स्नातक (ऑनर्स) अंग्रेजी                                                              |
+| बाध                 | कला स्नातक (ऑनर्स) हिन्दी                                                                |
+| बहिह                | कला स्नातक (ऑनर्स) इतिहास                                                                |
+| बापा                | कला स्नातक (ऑनर्स) लोक प्रशासन                                                           |
+| बपश                 | कला स्नातक (ऑनर्स) राजनीति विज्ञान                                                       |
+| बीएवीटीएम           | कला स्नातक (व्यावसायिक अध्ययन) पर्यटन प्रबंधन                                            |
+| बाप                 | कला स्नातक (ऑनर्स) मनोविज्ञान                                                            |
+| बसोह                | कला स्नातक (ऑनर्स) समाजशास्त्र                                                           |
+| बीबीएआरएल           | बैचलर ऑफ बिज़नस एडमिनिस्ट्रेशन (रिटेलिंग)                                                |
+| बीसीओएमजी           | बैचलर ऑफ कॉमर्स                                                                          |
+| बीसीओएमसीएए         | बैचलर ऑफ कॉमर्स (कॉर्पोरेट अफेयर्स एंड एडमिनिस्ट्रेशन)                                   |
+| बीसीओएमएफ़          | बैचलर ऑफ कॉमर्स (लेखा और वित्त)                                                          |
+| बीसीओएमएफसीए        | बैचलर ऑफ कॉमर्स (वित्तीय और लागत लेखा)                                                   |
+| बीसीए               | कंप्यूटर अनुप्रयोगों के स्नातक                                                           |
+| ब्लिस               | पुस्तकालय और सूचना विज्ञान स्नातक                                                        |
+| बीएससीजी            | विज्ञान स्नातक                                                                           |
+| बीएससीएएनएच         | विज्ञान स्नातक (ऑनर्स) नृविज्ञान                                                         |
+| बीएससीबीसीएच        | विज्ञान स्नातक (ऑनर्स) जैव रसायन                                                         |
+| बीएसडब्ल्यूजी       | सामाजिक कार्य स्नातक                                                                     |
+| सीआईएचएल            | सीईआरटी अंतर्राष्ट्रीय मानवीय कानून में                                                  |
+| सीआरयूएल            | रूसी भाषा में प्रमाण पत्र                                                                |
+| सीएएचटी             | मानव तस्करी रोधी प्रमाणपत्र                                                              |
+| सीआईबी              | मधुमक्खी पालन में प्रमाण पत्र                                                            |
+| सीबीएस              | व्यापार कौशल में प्रमाण पत्र                                                             |
+| सीसीआईटीएसके        | संचार और आईटी कौशल में प्रमाणपत्र                                                        |
+| सीसीआर              | सामुदायिक रेडियो में प्रमाण पत्र                                                         |
+| सीसीपी              | उपभोक्ता संरक्षण में प्रमाणपत्र                                                          |
+| सीडीएम              | आपदा प्रबंधन में प्रमाण पत्र                                                             |
+| सीईटीएम             | ऊर्जा प्रौद्योगिकी और प्रबंधन में प्रमाणपत्र                                             |
+| सीईएस               | पर्यावरण अध्ययन में प्रमाण पत्र                                                          |
+| सीएफडीई             | फैशन डिजाइन में प्रमाण पत्र                                                              |
+| सीएफएआईडी           | प्राथमिक चिकित्सा में प्रमाण पत्र                                                        |
+| सीएफएन              | भोजन और पोषण में प्रमाण पत्र                                                             |
+| सीएफएल              | फ्रेंच भाषा में प्रमाणपत्र                                                               |
+| सीएफई               | कार्यात्मक अंग्रेजी में प्रमाण पत्र                                                      |
+| सीजीएएस             | लिंग, कृषि और सतत विकास में प्रमाणपत्र                                                   |
+| सीजीडीए             | सामान्य कर्तव्य सहायता में प्रमाण पत्र                                                   |
+| सीजीसीए             | जराचिकित्सा देखभाल सहायता में प्रमाण पत्र                                                |
+| सीजीएल              | जर्मन भाषा में प्रमाणपत्र                                                                |
+| सीआईजी              | मार्गदर्शन में प्रमाण पत्र                                                               |
+| सीएचसीडब्ल्यूएम     | स्वास्थ्य देखभाल अपशिष्ट प्रबंधन में प्रमाण पत्र                                         |
+| सीएचबीएचसी          | गृह आधारित स्वास्थ्य देखभाल में प्रमाण पत्र                                              |
+| छा                  | गृह स्वास्थ्य सहायता में प्रमाणपत्र                                                      |
+| सीएचआर              | मानव अधिकारों में प्रमाण पत्र                                                            |
+| सीआईटी              | सूचना प्रौद्योगिकी में प्रमाण पत्र                                                       |
+| सीजेएल              | जापानी भाषा में प्रमाणपत्र                                                               |
+| सीकेएलसी            | कोरियाई भाषा और संस्कृति में प्रमाणपत्र                                                  |
+| सीएलआईएस            | पुस्तकालय और सूचना विज्ञान में प्रमाण पत्र                                               |
+| सीएमसीएचएन          | मातृ एवं शिशु स्वास्थ्य नर्सिंग में प्रमाण पत्र                                          |
+| सीएमएडी             | मोबाइल एप्लीकेशन डेवलपमेंट में सर्टिफिकेट                                                |
+| सीएनसीसी            | पोषण और बाल देखभाल में प्रमाण पत्र                                                       |
+| सीओएफ               | जैविक खेती में प्रमाण पत्र                                                               |
+| सीपीएएचएम           | प्रदर्शन कला में प्रमाण पत्र -हिंदुस्तानी संगीत                                          |
+| सीपीएबीएन           | प्रदर्शन कला में प्रमाण पत्र-भरतनाट्यम                                                   |
+| सीपीएकेएम           | प्रदर्शन कला-कर्नाटक संगीत में प्रमाण पत्र                                               |
+| सीपीएटीए            | प्रदर्शन कला-रंगमंच कला में प्रमाण पत्र                                                  |
+| सीपीईएल             | फारसी भाषा में प्रमाण पत्र                                                               |
+| सीपीएचए             | Phlebotomy सहायता में प्रमाण पत्र                                                        |
+| सीपीएफ              | कुक्कुट पालन में प्रमाण पत्र                                                             |
+| सीआरडी              | ग्रामीण विकास में प्रमाण पत्र                                                            |
+| सीआईएस              | रेशम उत्पादन में प्रमाण पत्र                                                             |
+| सीएसडब्ल्यूएम       | सॉलिड वेस्ट मैनेजमेंट में सर्टिफिकेट                                                     |
+| सीएसवाट             | ठोस अपशिष्ट उपचार तकनीकों में प्रमाणपत्र                                                 |
+| सीएसएलसी            | स्पेनिश भाषा और संस्कृति में प्रमाण पत्र                                                 |
+| सीटीई               | दूसरी भाषा के रूप में अंग्रेजी के शिक्षण में प्रमाणपत्र                                  |
+| सीटीपीएम            | प्राथमिक विद्यालय गणित के शिक्षण में प्रमाण पत्र                                         |
+| सीटीएस              | पर्यटन अध्ययन में प्रमाण पत्र                                                            |
+| सीटीआरबीएस          | जनजातीय अध्ययन में प्रमाण पत्र                                                           |
+| संस्कृति            | उर्दू भाषा में प्रमाणपत्र                                                                |
+| सीवीएपी             | दृश्य कला चित्रकला में प्रमाण पत्र                                                       |
+| सीवीएए              | विजुअल आर्ट्स-एप्लाइड आर्ट्स में सर्टिफिकेट                                              |
+| सीडब्ल्यूएचएम       | जल संचयन और प्रबंधन में प्रमाण पत्र                                                      |
+| सीसीपीडी            | विद्युत वितरण (विद्युत तकनीशियन) में योग्यता का प्रमाण पत्र                              |
+| सीएलटीए             | प्रमाणपत्र कार्यक्रम। जीवन और विचार पर डॉ. NS। अम्बेडकर                                  |
+| सीएनआईएन            | नवजात और शिशु पालन पोषण में प्रमाणपत्र कार्यक्रम                                         |
+| सीएनएम              | गैर सरकारी संगठन प्रबंधन में प्रमाणपत्र कार्यक्रम                                        |
+| सीपीएलटी            | प्रयोगशाला तकनीकों में प्रमाणपत्र कार्यक्रम                                              |
+| सीपीवीई             | मूल्य शिक्षा में प्रमाणपत्र कार्यक्रम                                                    |
+| सीपीवाई             | योग में प्रमाणपत्र कार्यक्रम                                                             |
+| सीएएचसी             | प्रमाणपत्र (किशोर स्वास्थ्य और परामर्श)                                                  |
+| सीएएल               | प्रमाणपत्र (अरबी भाषा)                                                                   |
+| सीसीएलबीएल          | प्रमाणपत्र (सहकारी कानून और व्यापार कानून)                                               |
+| एसएसबी              | प्रमाणपत्र (संचारी संस्कृत)                                                              |
+| सीसीएच              | प्रमाणपत्र (सामुदायिक स्वास्थ्य)                                                         |
+| सीएफबीओ             | प्रमाणपत्र (खाद्य और पेय सेवा संचालन)                                                    |
+| सीएफओ               | सर्टिफिकेट (फ्रंट ऑफिस ऑपरेशंस)                                                          |
+| कैफे                | प्रमाणपत्र (एचआईवी और परिवार शिक्षा)                                                     |
+| चो                  | सर्टिफिकेट (हाउसकीपिंग ऑपरेशंस)                                                          |
+| सीपीएससीएम          | प्रमाणपत्र (शांति अध्ययन और संघर्ष प्रबंधन)                                              |
+| सीएसडब्ल्यूसीजेएस   | प्रमाणपत्र (सामाजिक कार्य और आपराधिक न्याय प्रणाली)                                      |
+| सीआरसीएस            | पाठ्यक्रम के अनुसार पंजीकरण और प्रमाणन योजना                                             |
+| डीएक्यू             | एक्वाकल्चर में डिप्लोमा                                                                  |
+| डीबीपीओएफए          | व्यापार प्रक्रिया आउटसोर्सिंग वित्त और लेखा में डिप्लोमा                                 |
+| डीसीई               | अंग्रेजी में रचनात्मक लेखन में डिप्लोमा                                                  |
+| डीसीसीएन            | क्रिटिकल केयर नर्सिंग में डिप्लोमा                                                       |
+| डीडीटी              | डेयरी प्रौद्योगिकी में डिप्लोमा                                                          |
+| DECE                | बचपन की देखभाल और शिक्षा में डिप्लोमा                                                    |
+| देवमट               | इवेंट मैनेजमेंट में डिप्लोमा                                                             |
+| डेफ                 | एचआईवी और परिवार शिक्षा में डिप्लोमा                                                     |
+| धोर्ट               | बागवानी में डिप्लोमा                                                                     |
+| डीएमटी              | मांस प्रौद्योगिकी में डिप्लोमा                                                           |
+| डीएमओपी             | आधुनिक कार्यालय अभ्यास में डिप्लोमा                                                      |
+| डीएनएचई             | पोषण और स्वास्थ्य शिक्षा में डिप्लोमा                                                    |
+| डीपीएलएडी           | पंचायत स्तर प्रशासन और विकास में डिप्लोमा                                                |
+| डीआईपीपी            | पैरालीगल अभ्यास में डिप्लोमा                                                             |
+| डीआईआर              | रिटेलिंग में डिप्लोमा                                                                    |
+| डीएससीडीएम          | स्मार्ट सिटी विकास और प्रबंधन में डिप्लोमा                                               |
+| डीटीजी              | एक विदेशी भाषा के रूप में जर्मन शिक्षण में डिप्लोमा                                      |
+| डीटीएच              | रंगमंच कला में डिप्लोमा                                                                  |
+| डीटीएस              | पर्यटन अध्ययन में डिप्लोमा                                                               |
+| दुल                 | उर्दू में डिप्लोमा                                                                       |
+| डीपीवीई             | वैल्यू एजुकेशन में डिप्लोमा                                                              |
+| डीडब्लूएम           | वाटरशेड प्रबंधन में डिप्लोमा                                                             |
+| डीडब्ल्यूईडी        | महिला अधिकारिता और विकास में डिप्लोमा                                                    |
+| डीवीएपीएफवी         | फलों और सब्जियों से मूल्यवर्धित उत्पादों में डिप्लोमा कार्यक्रम।                         |
+| एमटीटीएम            | पर्यटन और यात्रा प्रबंधन के मास्टर                                                       |
+| MAAE                | मास्टर ऑफ आर्ट्स (वयस्क शिक्षा)                                                          |
+| मान                 | मास्टर ऑफ आर्ट्स (नृविज्ञान)                                                             |
+| एमएडीवीएस           | कला के मास्टर (विकास अध्ययन)                                                             |
+| मेड                 | मास्टर ऑफ आर्ट्स (दूरस्थ शिक्षा)                                                         |
+| एमईसी               | मास्टर ऑफ आर्ट्स (अर्थशास्त्र)                                                           |
+| एमईजी               | मास्टर ऑफ आर्ट्स (अंग्रेजी)                                                              |
+| एमजीपीएस            | मास्टर ऑफ आर्ट्स (गांधी और शांति अध्ययन)                                                 |
+| एमएजीडी             | मास्टर ऑफ आर्ट्स (लिंग और विकास अध्ययन)                                                  |
+| एमएचडी              | मास्टर ऑफ आर्ट्स (हिंदी)                                                                 |
+| एमएएच               | मास्टर ऑफ आर्ट्स (इतिहास)                                                                |
+| एमएजेएमसी           | मास्टर ऑफ आर्ट्स (पत्रकारिता और जनसंचार)                                                 |
+| मैपी                | कला के मास्टर (दर्शनशास्त्र)                                                             |
+| एमपीएस              | कला के मास्टर (राजनीतिक विज्ञान)                                                         |
+| एमएपीसी             | कला के मास्टर (मनोविज्ञान)                                                               |
+| एमपीए               | कला के मास्टर (सार्वजनिक प्रशासन)                                                        |
+| मर्द                | मास्टर ऑफ आर्ट्स (ग्रामीण विकास)                                                         |
+| एमएसओ               | कला के मास्टर (समाजशास्त्र)                                                              |
+| मैट                 | कला के मास्टर (अनुवाद अध्ययन)                                                            |
+| एमएडब्ल्यूजीएस      | मास्टर ऑफ आर्ट्स (महिला और लिंग अध्ययन)                                                  |
+| एमएडीपी             | मास्टर ऑफ आर्ट्स (ड्राइंग और पेंटिंग)                                                    |
+| माएडू               | मास्टर ऑफ आर्ट्स (शिक्षा)                                                                |
+| मायर                | मास्टर ऑफ आर्ट्स (उद्यमिता)                                                              |
+| एमएएफसीएस           | मास्टर ऑफ आर्ट्स (फोकलोर एंड कल्चर स्टडीज)                                               |
+| माजी                | मास्टर ऑफ आर्ट्स (ज्योतिष)                                                               |
+| एमएसके              | मास्टर ऑफ आर्ट्स (संस्कृत)                                                               |
+| मौड                 | मास्टर ऑफ आर्ट्स (यूआरडीयू)                                                              |
+| एमबीएफ              | मास्टर ऑफ बिजनेस एडमिनिस्ट्रेशन (बैंकिंग और वित्त)                                       |
+| एमबीए               | बिजनेस एडमिनिस्ट्रेशन के मास्टर                                                          |
+| एमसीओएम             | वाणिज्य के मास्टर                                                                        |
+| एमसीओएमबीपीजी       | व्यापार नीति और कॉर्पोरेट शासन में वाणिज्य के मास्टर                                     |
+| एमकॉम्माफ्स         | प्रबंधन लेखा और वित्तीय रणनीतियों में वाणिज्य के मास्टर                                  |
+| एमसीओएमएफटी         | मास्टर ऑफ कॉमर्स (वित्त और कराधान)                                                       |
+| एमसीए_नई            | कंप्यूटर अनुप्रयोगों के मास्टर                                                           |
+| एमएलआईएस            | पुस्तकालय और सूचना विज्ञान के मास्टर                                                     |
+| एमएससीसीएफटी        | मास्टर ऑफ साइंस (परामर्श और परिवार चिकित्सा)                                             |
+| एमएससीईएनवी         | मास्टर ऑफ साइंस (पर्यावरण विज्ञान)                                                       |
+| एमएससीडीएफएसएम      | मास्टर ऑफ साइंस (खाद्य पोषण)                                                             |
+| एमएससीआईएस          | मास्टर ऑफ साइंस (सूचना सुरक्षा)                                                          |
+| एमएसडब्ल्यू         | सामाजिक कार्य के मास्टर                                                                  |
+| एमएसडब्ल्यूसी       | मास्टर ऑफ सोशल वर्क (परामर्श)                                                            |
+| पीजीसीएई            | एडल्ट एजुकेशन में पीजी सर्टिफिकेट                                                        |
+| पीजीसीबीएचटी        | बांग्ला हिंदी अनुवाद कार्यक्रम में पीजी सर्टिफिकेट                                       |
+| पीजीसीसीएल          | साइबर कानून में पीजी सर्टिफिकेट                                                          |
+| पीजीसीजीपीएस        | गांधी और शांति अध्ययन में पीजी सर्टिफिकेट                                                |
+| पीजीसीपीपी          | पेटेंट अभ्यास में पीजी सर्टिफिकेट                                                        |
+| पीजीडीएसी           | विश्लेषणात्मक रसायन विज्ञान में पीजी डिप्लोमा                                            |
+| पीजीडीसीएफटी        | परामर्श और परिवार चिकित्सा में पीजी डिप्लोमा                                             |
+| पीजीडीजीपीएस        | गांधी और शांति अध्ययन में पीजी डिप्लोमा                                                  |
+| पीजीडीआईएस          | सूचना सुरक्षा में पीजी डिप्लोमा                                                          |
+| पीजीसीएपी           | कृषि नीति में स्नातकोत्तर प्रमाणपत्र                                                     |
+| पीजीसीसीसी          | जलवायु परिवर्तन में स्नातकोत्तर प्रमाणपत्र                                               |
+| पीजीसीजीआई          | भू सूचना विज्ञान में स्नातकोत्तर प्रमाणपत्र                                              |
+| पीजीसीआईएनडीएस      | औद्योगिक सुरक्षा में स्नातकोत्तर प्रमाणपत्र                                              |
+| पीजीसीआईएटीवीआई     | दृष्टिबाधित प्रशिक्षकों के लिए सूचना और सहायक प्रौद्योगिकियों में स्नातकोत्तर प्रमाणपत्र |
+| पीजीसीआईपीडब्ल्यूएस | इंजीनियरों के लिए इन्वेंटरी प्लानिंग और वेयरहाउसिंग सिस्टम में पोस्ट ग्रेजुएट सर्टिफिकेट |
+| पीजीसीएमएचटी        | मलयालम-हिंदी अनुवाद में स्नातकोत्तर प्रमाणपत्र                                           |
+| पीजीडीएफसीएस        | पोस्ट ग्रेजुएट डीआईपी। लोकगीत और संस्कृति अध्ययन में                                     |
+| पीजीडीएई            | प्रौढ़ शिक्षा में स्नातकोत्तर डिप्लोमा                                                   |
+| पीजीडीएडब्ल्यू      | पशु कल्याण में स्नातकोत्तर डिप्लोमा                                                      |
+| पीजीडीएएसटी         | लागू सांख्यिकी में स्नातकोत्तर डिप्लोमा                                                  |
+| पीजीडीएपीपी         | ऑडियो प्रोग्राम प्रोडक्शन में पोस्ट ग्रेजुएट डिप्लोमा                                    |
+| पीजीडीबीपी          | पुस्तक प्रकाशन में स्नातकोत्तर डिप्लोमा                                                  |
+| पीजीडीसीएसआर        | कॉर्पोरेट सामाजिक उत्तरदायित्व में स्नातकोत्तर डिप्लोमा                                  |
+| पीजीडीडीवीएस        | विकास अध्ययन में स्नातकोत्तर डिप्लोमा                                                    |
+| पीजीडीडीएम          | आपदा प्रबंधन में स्नातकोत्तर डिप्लोमा                                                    |
+| पीजीडीईटी           | शैक्षिक प्रौद्योगिकी में स्नातकोत्तर डिप्लोमा                                            |
+| पीजीडीओएच           | पर्यावरण और व्यावसायिक स्वास्थ्य में स्नातकोत्तर डिप्लोमा                                |
+| पीजीडीईएसडी         | पर्यावरण और सतत विकास में स्नातकोत्तर डिप्लोमा                                           |
+| पीजीडीएचई           | उच्च शिक्षा में स्नातकोत्तर डिप्लोमा                                                     |
+| पीजीडीआईपीआर        | बौद्धिक संपदा अधिकारों में स्नातकोत्तर डिप्लोमा                                          |
+| पीजीडीआईबीओ         | अंतर्राष्ट्रीय व्यापार संचालन में स्नातकोत्तर डिप्लोमा                                   |
+| पीजीडीएलएएन         | पुस्तकालय स्वचालन और नेटवर्किंग में स्नातकोत्तर डिप्लोमा                                 |
+| पीजीडीएमएच          | मानसिक स्वास्थ्य में स्नातकोत्तर डिप्लोमा                                                |
+| पीजीडीपीएसएम        | फार्मास्युटिकल सेल्स एमजीएमटी में पोस्ट ग्रेजुएट डिप्लोमा                                |
+| पीजीडीपीपीईडी       | पूर्व प्राथमिक शिक्षा में स्नातकोत्तर डिप्लोमा                                           |
+| पीजीडीआरडी          | ग्रामीण विकास में स्नातकोत्तर डिप्लोमा                                                   |
+| पीजीडीएसएलएम        | स्कूल नेतृत्व और प्रबंधन में स्नातकोत्तर डिप्लोमा                                        |
+| पीजीडीएसएस          | स्थिरता विज्ञान में स्नातकोत्तर डिप्लोमा                                                 |
+| पीजीडीटी            | अनुवाद में स्नातकोत्तर डिप्लोमा                                                          |
+| पीजीडीयूपीडीएल      | शहरी नियोजन और विकास में स्नातकोत्तर डिप्लोमा                                            |
+| पीजीडीडब्ल्यूजीएस   | महिला और लिंग अध्ययन में स्नातकोत्तर डिप्लोमा                                            |
+| पीजीजेएमसी          | पोस्ट ग्रेजुएट डिप्लोमा (पत्रकारिता और जन संचार)                                         |
+| पीजीडीओएम           | स्नातकोत्तर डिप्लोमा (संचालन प्रबंधन)                                                    |
+| PGDCA_NEW           | पोस्ट ग्रेजुएट डिप्लोमा (कंप्यूटर एप्लीकेशन)                                             |
+| पीजीडीसीजे          | पोस्ट ग्रेजुएट डिप्लोमा (आपराधिक न्याय)                                                  |
+| पीजीडीडीसी          | पोस्ट ग्रेजुएट डिप्लोमा (डेवलपमेंट कम्युनिकेशन)                                          |
+| पीजीडीआईडीएम        | पोस्ट ग्रेजुएट डिप्लोमा (डिजिटल मीडिया)                                                  |
+| पीजीडीएफएम          | पोस्ट ग्रेजुएट डिप्लोमा (वित्तीय प्रबंधन)                                                |
+| पीजीडीएफएसक्यूएम    | पोस्ट ग्रेजुएट डिप्लोमा (खाद्य सुरक्षा और गुणवत्ता प्रबंधन)                              |
+| पीजीडीएचओ           | पोस्ट ग्रेजुएट डिप्लोमा (होटल संचालन)                                                    |
+| पीजीडीएचआरएम        | पोस्ट ग्रेजुएट डिप्लोमा (मानव संसाधन प्रबंधन)                                            |
+| पीजीडीएमएम          | स्नातकोत्तर डिप्लोमा (विपणन प्रबंधन)                                                     |
+| पीजीडीसीओएन         | पोस्ट ग्रेजुएट डिप्लोमा (सामाजिक कार्य परामर्श)                                          |
+| पीजीडीईएमए          | शैक्षिक एमजीएमटी में स्नातकोत्तर डुबकी। और प्रशासन                                       |
 
-## Admission for Online Programmes
+## ऑनलाइन कार्यक्रमों के लिए प्रवेश
 
-> [Admission Link](https://ignouiop.samarth.edu.in/)
+> [प्रवेश लिंक](https://ignouiop.samarth.edu.in/)
 
-**Available Programmes**
+**उपलब्ध कार्यक्रम**
 
-| Code   | Programme                                            |
-| :----- | :--------------------------------------------------- |
-| BTS    | BACHELOR OF ARTS IN TOURISM STUDIES                  |
-| BCOMOL | Bachelor of Commerce(COMMERCE)                       |
-| BLIS   | BACHELOR OF LIBRARY AND INFORMATION SCIENCES         |
-| CRUL   | CERTIFICATE IN RUSSIAN LANGUAGE                      |
-| CAL    | Certificate in Arabic Language                       |
-| CIT    | Certificate in INFORMATION TECHNOLOGY                |
-| CLIS   | Certificate in LIBRARY AND INFORMATION SCIENCE       |
-| CPSCM  | Certificate in Peace Studies and Conflict Management |
-| CTS    | CERTIFICATE IN TOURISM STUDIES                       |
-| CTRBS  | CERTIFICATE IN TRIBAL STUDIES                        |
-| DTS    | Diploma in TOURISM STUDIES                           |
-| MGPS   | Master of Arts (Gandhi and Peace Studies)            |
-| MHD    | MASTER OF ARTS (HINDI)                               |
-| MATS   | Master of Arts(Translation Studies)                  |
-| PGCGPS | PG Certificate in Gandhi and Peace Studies           |
-| PGCAP  | POST GRADUATE CERTIFICATE IN AGRICULTURE POLICY      |
-| PGDGPS | Post Graduate Diploma in Gandhi and Peace Studies    |
-| PGDSS  | Post Graduate Diploma in Sustainability Science      |
+| कोड          | कार्यक्रम                                      |
+| :----------- | :--------------------------------------------- |
+| बीटीएस       | पर्यटन अध्ययन में कला स्नातक                   |
+| बीकोमोल      | वाणिज्य स्नातक (वाणिज्य)                       |
+| ब्लिस        | पुस्तकालय और सूचना विज्ञान स्नातक              |
+| सीआरयूएल     | रूसी भाषा में प्रमाण पत्र                      |
+| सीएएल        | अरबी भाषा में प्रमाणपत्र                       |
+| सीआईटी       | सूचना प्रौद्योगिकी में प्रमाणपत्र              |
+| सीएलआईएस     | पुस्तकालय और सूचना विज्ञान में सर्टिफिकेट      |
+| सीपीएससीएम   | शांति अध्ययन और संघर्ष प्रबंधन में प्रमाणपत्र  |
+| सीटीएस       | पर्यटन अध्ययन में प्रमाण पत्र                  |
+| सीटीआरबीएस   | जनजातीय अध्ययन में प्रमाण पत्र                 |
+| डीटीएस       | पर्यटन अध्ययन में डिप्लोमा                     |
+| एमजीपीएस     | मास्टर ऑफ आर्ट्स (गांधी और शांति अध्ययन)       |
+| एमएचडी       | मास्टर ऑफ आर्ट्स (हिंदी)                       |
+| मैट          | मास्टर ऑफ आर्ट्स (अनुवाद अध्ययन)               |
+| पीजीसीजीपीएस | गांधी और शांति अध्ययन में पीजी सर्टिफिकेट      |
+| पीजीसीएपी    | कृषि नीति में स्नातकोत्तर प्रमाणपत्र           |
+| पीजीडीजीपीएस | गांधी और शांति अध्ययन में स्नातकोत्तर डिप्लोमा |
+| पीजीडीएसएस   | स्थिरता विज्ञान में स्नातकोत्तर डिप्लोमा       |
 
-## Admission for Fixed Learner Intake Programmes
+## निश्चित शिक्षार्थी सेवन कार्यक्रमों के लिए प्रवेश
 
-_FLIP: Fixed Learner Intake Programmes_
+_FLIP: निश्चित शिक्षार्थी सेवन कार्यक्रम_
 
-> [Admission Link](https://ignouflip.samarth.edu.in/)
+> [प्रवेश लिंक] (https://ignouflip.samarth.edu.in/)
 
-**Available Programmes**
+**उपलब्ध कार्यक्रम**
 
-- MSCMACS
-- PGDMCH
-- PGDGM
-- PGDHHM
-- DNA
-- PGDHIVM
-- PGCMDM
+- एमएससीएमएसीएस
+- पीजीडीएमसीएच
+- पीजीडीजीएम
+- पीजीडीएचएचएम
+- डीएनए
+- पीजीडीएचआईवीएम
+- पीजीसीएमडीएम
 
-## Student Login After Admission
+## प्रवेश के बाद छात्र लॉगिन
 
-> [Student Login Link](https://ignou.samarth.edu.in/)
+> [छात्र लॉगिन लिंक](https://ignou.samarth.edu.in/)
 
-_All students are advised to register on the [Student Portal](https://ignou.samarth.edu.in/) after confirmation of their admission and create their own Student Account_
+\_सभी छात्रों को सलाह दी जाती है कि वे अपने प्रवेश की पुष्टि के बाद [छात्र पोर्टल] (https://ignou.samarth.edu.in/) पर पंजीकरण करें और अपना स्वयं का छात्र खाता बनाएं।

@@ -1,79 +1,79 @@
-## Is it compulsory to register myself before submitting an admission form online?
+## क्या ऑनलाइन प्रवेश फॉर्म जमा करने से पहले खुद को पंजीकृत करना अनिवार्य है?
 
-Yes, it is compulsory to register with our Online Admission System before you can submit your admission form online.
+हां, अपना प्रवेश पत्र ऑनलाइन जमा करने से पहले हमारे ऑनलाइन प्रवेश प्रणाली के साथ पंजीकरण करना अनिवार्य है।
 
-## Is Email address compulsory to fill online application form?
+## क्या ऑनलाइन आवेदन पत्र भरने के लिए ईमेल पता अनिवार्य है?
 
-Yes, you are required to use E-mail address to register for Online Admission.
+हां, ऑनलाइन प्रवेश के लिए पंजीकरण करने के लिए आपको ई-मेल पते का उपयोग करना होगा।
 
-## If the power/internet connection fails during the application process, what should I do?
+## अगर आवेदन प्रक्रिया के दौरान बिजली/इंटरनेट कनेक्शन विफल हो जाता है, तो मुझे क्या करना चाहिए?
 
-Since the data is saved at the end of every stage with the 'Save' button, your data is automatically saved till the previous stage. If you are within a particular stage and the system is interrupted due to power failure or loss of connectivity, then your current stage data will not be saved. Please log in again using your ID and password and complete the form submission process from the stage where the system got interrupted.
+चूंकि डेटा प्रत्येक चरण के अंत में 'सहेजें' बटन के साथ सहेजा जाता है, आपका डेटा स्वचालित रूप से पिछले चरण तक सहेजा जाता है। यदि आप किसी विशेष चरण के भीतर हैं और बिजली की विफलता या कनेक्टिविटी के नुकसान के कारण सिस्टम बाधित है, तो आपका वर्तमान चरण डेटा सहेजा नहीं जाएगा। कृपया अपने आईडी और पासवर्ड का उपयोग करके फिर से लॉग इन करें और उस चरण से फॉर्म जमा करने की प्रक्रिया को पूरा करें जहां सिस्टम बाधित हुआ था।
 
-## What is the detailed process for submission of online application form and action to be taken by the candidate?
+## ऑनलाइन आवेदन पत्र जमा करने की विस्तृत प्रक्रिया और उम्मीदवार द्वारा की जाने वाली कार्रवाई क्या है?
 
-**The submission of admission form passes through the following stages:**
+**प्रवेश पत्र जमा करना निम्नलिखित चरणों से होकर गुजरता है:**
 
-- Open the URL (https://ignouadmission.samarth.edu.in)
-- Complete Registration process (which creates ‘User Name’ and ‘Password’ for you).
-- Your ‘User Name’ and ‘Password’ is informed through SMS and email.
-- Re-login to the system using your ‘User Name’ and ‘Password.’
-- Fill Admission Form online.
-- Upload your recent passport size Photograph (maximum size 100KB in JPG format).
-- Upload your specimen signature (maximum size 100KB in JPG format).
-- Upload scanned copies of the relevant documents (maximum size 200KB each document in JPG/PDF format).
-- Read the instruction and declaration carefully by clicking the ‘Declaration’ box.
-- Preview your data and confirm details.
-- Make payment of Fee through the Credit/Debit card/Net Banking.
-- Payment confirmation message is sent to you through SMS and email.
-- Press Next button to see the form preview.
-- After the final submission of online application form, your may download the filled in application form and keep a printout for your record.
+- यूआरएल खोलें (https://ignouadmission.samarth.edu.in)
+- पूर्ण पंजीकरण प्रक्रिया (जो आपके लिए 'उपयोगकर्ता नाम' और 'पासवर्ड' बनाती है)।
+- आपका 'उपयोगकर्ता नाम' और 'पासवर्ड' एसएमएस और ईमेल के माध्यम से सूचित किया जाता है।
+- अपने 'उपयोगकर्ता नाम' और 'पासवर्ड' का उपयोग करके सिस्टम में पुनः लॉगिन करें।
+- ऑनलाइन एडमिशन फॉर्म भरें।
+- अपना हालिया पासपोर्ट आकार का फोटो (जेपीजी प्रारूप में अधिकतम आकार 100 केबी) अपलोड करें।
+- अपना नमूना हस्ताक्षर अपलोड करें (JPG प्रारूप में अधिकतम आकार 100KB)।
+- संबंधित दस्तावेजों की स्कैन की हुई प्रतियां अपलोड करें (जेपीजी/पीडीएफ प्रारूप में प्रत्येक दस्तावेज का अधिकतम आकार 200 केबी)।
+- 'घोषणा' बॉक्स पर क्लिक करके निर्देश और घोषणा को ध्यान से पढ़ें।
+- अपने डेटा का पूर्वावलोकन करें और विवरण की पुष्टि करें।
+- शुल्क का भुगतान क्रेडिट/डेबिट कार्ड/नेट बैंकिंग के माध्यम से करें।
+- भुगतान पुष्टिकरण संदेश आपको एसएमएस और ईमेल के माध्यम से भेजा जाता है।
+- प्रपत्र पूर्वावलोकन देखने के लिए अगला बटन दबाएं।
+- ऑनलाइन आवेदन पत्र को अंतिम रूप से जमा करने के बाद, आप भरे हुए आवेदन पत्र को डाउनलोड कर सकते हैं और अपने रिकॉर्ड के लिए एक प्रिंटआउट रख सकते हैं।
 
-## How should I pay the programme fee?
+## मुझे कार्यक्रम शुल्क का भुगतान कैसे करना चाहिए?
 
-Programme fee for online Admission can be paid through credit/debit card/ net banking.
+ऑनलाइन प्रवेश के लिए कार्यक्रम शुल्क का भुगतान क्रेडिट/डेबिट कार्ड/नेट बैंकिंग के माध्यम से किया जा सकता है।
 
-## What kinds of Credit/Debit cards are accepted for payment of the programme fee? Is there Internet banking facility is also available?
+## कार्यक्रम शुल्क के भुगतान के लिए किस प्रकार के क्रेडिट/डेबिट कार्ड स्वीकार किए जाते हैं? क्या इंटरनेट बैंकिंग सुविधा भी उपलब्ध है?
 
-The Visa and Master Cards are accepted for making the payment of programme fee. Yes, the payment of fee can also be made through Net Banking.
+कार्यक्रम शुल्क का भुगतान करने के लिए वीज़ा और मास्टर कार्ड स्वीकार किए जाते हैं। हाँ, शुल्क का भुगतान नेट बैंकिंग के माध्यम से भी किया जा सकता है।
 
-## Payment has been deducted from Credit Card/Debit Card/ my account but I have not received any confirmation. What should I do?
+## क्रेडिट कार्ड/डेबिट कार्ड/मेरे खाते से भुगतान काट लिया गया है लेकिन मुझे कोई पुष्टि नहीं मिली है। मुझे क्या करना चाहिए?
 
-If the payment has been deducted but you did not get acknowledgement for the same, please email the transaction details including the Control Number, your name, programme opted, mobile number, amount paid etc. to the Centralised Student Registration Cell at 011-29571301 or 011-29571528. You can email at csrc@ignou.ac.in. If required, you may escalate and submit your grievance to our website at http://igram.ignou.ac.in/.
+यदि भुगतान काट लिया गया है, लेकिन आपको इसकी पावती नहीं मिली है, तो कृपया नियंत्रण संख्या, अपना नाम, चुने गए कार्यक्रम, मोबाइल नंबर, भुगतान की गई राशि आदि सहित लेनदेन का विवरण केंद्रीकृत छात्र पंजीकरण सेल को 011-29571301 पर ईमेल करें या 011-29571528. आप csrc@ignou.ac.in पर ईमेल कर सकते हैं। यदि आवश्यक हो, तो आप हमारी वेबसाइट http://igram.ignou.ac.in/ पर अपनी शिकायत बढ़ा सकते हैं और सबमिट कर सकते हैं।
 
-## After Payment of the application fee, what information shall I receive through email/ SMS?
+## आवेदन शुल्क के भुगतान के बाद, मुझे ईमेल/एसएमएस के माध्यम से क्या जानकारी प्राप्त होगी?
 
-You will get the confirmation of payment made by you through SMS as well as email.
+आपके द्वारा किए गए भुगतान की पुष्टि एसएमएस के साथ-साथ ईमेल के माध्यम से भी हो जाएगी।
 
-## Where do I have to contact after successful submission of form?
+## फॉर्म को सफलतापूर्वक जमा करने के बाद मुझे कहां संपर्क करना होगा?
 
-Once the application Form is successfully submitted, your form will be scrutinised by IGNOU staff and if it fulfils the eligibility criteria you will receive a confirmation to that effect at your registered email address. If a deficiency is found in the application, you will receive a communication from IGNOU informing you about the discrepancy. After successful processing of your form, the University will provide you further information with regard to confirmation of your admission, allotment of study centre and other details for induction etc. in due course of time.
+एक बार आवेदन पत्र सफलतापूर्वक जमा हो जाने के बाद, इग्नू के कर्मचारियों द्वारा आपके फॉर्म की जांच की जाएगी और यदि यह पात्रता मानदंड को पूरा करता है तो आपको अपने पंजीकृत ईमेल पते पर इस आशय की पुष्टि प्राप्त होगी। यदि आवेदन में कोई कमी पाई जाती है, तो आपको इग्नू से विसंगति के बारे में सूचित करते हुए एक संचार प्राप्त होगा। आपके फॉर्म के सफल प्रसंस्करण के बाद, विश्वविद्यालय आपको आपके प्रवेश की पुष्टि, अध्ययन केंद्र के आवंटन और प्रवेश के लिए अन्य विवरण आदि के संबंध में आगे की जानकारी प्रदान करेगा।
 
-## What is the time frame for getting confirmation of my admission?
+## मेरे प्रवेश की पुष्टि प्राप्त करने की समय सीमा क्या है?
 
-The Admission forms submitted through the Online Admission System are scrutinised and confirmed for admission subject to fulfilment of eligibility criteria. The forms are processed region wise on a first come first serve basis. Therefore, the time required for processing of forms for different Regional Centres may vary depending on the number of applicants from the respective regions.
+ऑनलाइन प्रवेश प्रणाली के माध्यम से जमा किए गए प्रवेश फॉर्मों की जांच की जाती है और पात्रता मानदंड को पूरा करने के अधीन प्रवेश के लिए पुष्टि की जाती है। प्रपत्रों को पहले आओ पहले पाओ के आधार पर क्षेत्रवार संसाधित किया जाता है। इसलिए, विभिन्न क्षेत्रीय केंद्रों के लिए प्रपत्रों के प्रसंस्करण के लिए आवश्यक समय संबंधित क्षेत्रों के आवेदकों की संख्या के आधार पर भिन्न हो सकता है।
 
-## If I want to withdraw from the programme after confirmation of my admission, shall I get my fee refunded?
+## अगर मैं अपने प्रवेश की पुष्टि के बाद कार्यक्रम से हटना चाहता हूं, तो क्या मुझे अपना शुल्क वापस कर दिया जाएगा?
 
-Yes, University has a limited provision for cancellation of Programme and refund of fee as prescribed in the Refund Policy of the University. You may refer to the guidelines pertaining to ‘Refund of Fee’ under the ‘University Rules’ section of the IGNOU Common Prospectus. In cases where University denies admission, the programme fee will be refunded after deduction of processing fee, if any. The refund amount will be transferred electronically to the credit/debit/net banking account from where payment was made.
+हां, विश्वविद्यालय के पास कार्यक्रम को रद्द करने और शुल्क की वापसी के लिए सीमित प्रावधान है जैसा कि विश्वविद्यालय की धनवापसी नीति में निर्धारित है। आप इग्नू कॉमन प्रॉस्पेक्टस के 'यूनिवर्सिटी रूल्स' सेक्शन के तहत 'फीस की वापसी' से संबंधित दिशा-निर्देशों का उल्लेख कर सकते हैं। ऐसे मामलों में जहां विश्वविद्यालय प्रवेश से इनकार करता है, कार्यक्रम शुल्क प्रसंस्करण शुल्क, यदि कोई हो, की कटौती के बाद वापस किया जाएगा। रिफंड राशि इलेक्ट्रॉनिक रूप से क्रेडिट/डेबिट/नेट बैंकिंग खाते में स्थानांतरित कर दी जाएगी जहां से भुगतान किया गया था।
 
-## As a student of IGNOU, shall I get access to library facility?
+## इग्नू के एक छात्र के रूप में, क्या मुझे पुस्तकालय की सुविधा प्राप्त होगी?
 
-The students who seek admission to a programme of the University through Online Admission System will get the same facilities as those who join the programme in off-line mode. In case you are staying in the city where your Regional Centre is located, you can make use of the library at the Regional Centre. In addition, you can also use the multimedia facility (recorded audio/ video lectures, etc.) at the Regional Centre. Your Study Centre is also equipped with library/multimedia facility. You may use the facility during the working hours of the Study Centre.
+ऑनलाइन प्रवेश प्रणाली के माध्यम से विश्वविद्यालय के एक कार्यक्रम में प्रवेश पाने वाले छात्रों को वही सुविधाएं मिलेंगी जो कार्यक्रम में शामिल होने वालों को ऑफलाइन मोड में मिलती हैं। यदि आप उस शहर में रह रहे हैं जहां आपका क्षेत्रीय केंद्र स्थित है, तो आप क्षेत्रीय केंद्र में पुस्तकालय का उपयोग कर सकते हैं। इसके अलावा, आप क्षेत्रीय केंद्र में मल्टीमीडिया सुविधा (रिकॉर्ड किए गए ऑडियो/वीडियो व्याख्यान आदि) का भी उपयोग कर सकते हैं। आपका अध्ययन केंद्र पुस्तकालय/मल्टीमीडिया सुविधा से भी सुसज्जित है। आप अध्ययन केंद्र के कार्य समय के दौरान इस सुविधा का उपयोग कर सकते हैं।
 
-## What is Credit System?
+## क्रेडिट सिस्टम क्या है?
 
-The University follows the ‘Credit System’ for all the programmes. Each credit in our system is equivalent to 30 hours of study comprising all learning activities (i.e. reading and comprehending the print material, listening to audio, watching video, attending counselling sessions, teleconference and writing assignment responses). Thus, a 4-credit course involves about 120 hours of study. This helps the learner to know the academic effort he/she has to put in, to successfully complete a course. Completion of an academic programme (Degree/ Diploma/ Certificate) requires successful completion of the assignments, practicals, projects and the term-end examination of each course in a programme.
+विश्वविद्यालय सभी कार्यक्रमों के लिए 'क्रेडिट सिस्टम' का अनुसरण करता है। हमारे सिस्टम में प्रत्येक क्रेडिट 30 घंटे के अध्ययन के बराबर है जिसमें सभी सीखने की गतिविधियां शामिल हैं (यानी प्रिंट सामग्री को पढ़ना और समझना, ऑडियो सुनना, वीडियो देखना, परामर्श सत्र में भाग लेना, टेलीकांफ्रेंस और असाइनमेंट प्रतिक्रिया लिखना)। इस प्रकार, 4-क्रेडिट पाठ्यक्रम में लगभग 120 घंटे का अध्ययन शामिल है। इससे शिक्षार्थी को यह जानने में मदद मिलती है कि किसी पाठ्यक्रम को सफलतापूर्वक पूरा करने के लिए उसके द्वारा किए गए शैक्षणिक प्रयास क्या हैं। एक अकादमिक कार्यक्रम (डिग्री/डिप्लोमा/प्रमाण पत्र) को पूरा करने के लिए एक कार्यक्रम में प्रत्येक पाठ्यक्रम के सत्रीय कार्य, प्रायोगिक, परियोजनाओं और सत्रांत परीक्षा को सफलतापूर्वक पूरा करने की आवश्यकता होती है।
 
-## What is the system of evaluation followed by IGNOU?
+## इग्नू द्वारा अपनाई जाने वाली मूल्यांकन प्रणाली क्या है?
 
-The system of evaluation in IGNOU is different from that of conventional universities. IGNOU has a multi-tier system of evaluation - self-assessment exercises within each unit of study, continuous evaluation mainly through assignments which are tutor-marked, practical assignments and seminar/workshops/extended contact programmes, term-end examination, project work, etc. The evaluation of learners depends upon various instructional activities undertaken by them. A learner has to write assignment responses compulsorily before taking term-end examination from time to time to complete an academic programme. A learner has to submit tutor marked assignments (TMA) responses to the Coordinator of the Study Centre concerned to which s/he is attached.
+इग्नू में मूल्यांकन की प्रणाली पारंपरिक विश्वविद्यालयों से अलग है। इग्नू में मूल्यांकन की एक बहु-स्तरीय प्रणाली है - अध्ययन की प्रत्येक इकाई के भीतर स्व-मूल्यांकन अभ्यास, मुख्य रूप से शिक्षक-चिह्नित असाइनमेंट के माध्यम से निरंतर मूल्यांकन, व्यावहारिक असाइनमेंट और सेमिनार / कार्यशालाएं / विस्तारित संपर्क कार्यक्रम, टर्म-एंड परीक्षा, परियोजना कार्य, आदि। शिक्षार्थियों का मूल्यांकन उनके द्वारा की गई विभिन्न शिक्षण गतिविधियों पर निर्भर करता है। एक शैक्षिक कार्यक्रम को पूरा करने के लिए समय-समय पर सत्रांत परीक्षा देने से पहले शिक्षार्थी को सत्रीय कार्य के उत्तर लिखना अनिवार्य है। एक शिक्षार्थी को संबंधित अध्ययन केंद्र के समन्वयक को ट्यूटर मार्क्ड एसाइनमेंट (टीएमए) जवाब प्रस्तुत करना होता है, जिससे वह जुड़ा हुआ है।
 
-## Can I join two Programmes of IGNOU at a time?
+## क्या मैं एक बार में इग्नू के दो कार्यक्रमों में शामिल हो सकता हूं?
 
-Students who are already enrolled in a programme of one year or longer duration can also simultaneously register themselves for any Certificate programme of 6 months' duration. However, if there is any clash of dates of counselling or examination schedule between the two programmes taken, the University will not be in a position to make adjustments. Simultaneously pursuing two academic Programmes of one year or longer duration either from the same University, or one from the Open University (under ODL mode) and the other from Conventional University (regular or face-to face mode) is not permitted, as of now.
+जो छात्र पहले से ही एक वर्ष या उससे अधिक अवधि के कार्यक्रम में नामांकित हैं, वे भी एक साथ 6 महीने की अवधि के किसी भी प्रमाणपत्र कार्यक्रम के लिए अपना पंजीकरण करा सकते हैं। तथापि, यदि दोनों कार्यक्रमों के बीच काउंसलिंग या परीक्षा कार्यक्रम की तिथियों का कोई टकराव होता है, तो विश्वविद्यालय समायोजन करने की स्थिति में नहीं होगा। एक साथ एक वर्ष या उससे अधिक अवधि के दो शैक्षणिक कार्यक्रम या तो एक ही विश्वविद्यालय से, या एक मुक्त विश्वविद्यालय (ओडीएल मोड के तहत) से और दूसरा पारंपरिक विश्वविद्यालय (नियमित या आमने-सामने मोड) से करने की अनुमति नहीं है, अभी तक की अनुमति नहीं है .
 
-## Are the Degrees / Diplomas / Certificates awarded by IGNOU recognized by UGC?
+## क्या इग्नू द्वारा प्रदान की गई डिग्री/डिप्लोमा/प्रमाणपत्र यूजीसी द्वारा मान्यता प्राप्त हैं?
 
-Yes, recognized by UGC.
-IGNOU Degrees/Diplomas/Certificates are recognized by all member universities of the Association of Indian Universities (AIU) and are at par with Degrees/Diplomas/ Certificates of all Indian Universities/ Institutions, as per UGC Circular letter No. F.1-52/2000(CPP-II) dated 5th May, 2004, AIU Circular No. EV/11(449/94/176915-177115 dated January 14, 1994, AICTE Circular No. AICTE/Academic/ MOU-DEC/ 2005 dated May 13, 2005 and UGC/DEB/2013 dated 14.10.2013.
+हाँ, यूजीसी द्वारा मान्यता प्राप्त है।
+इग्नू डिग्री/डिप्लोमा/प्रमाणपत्र भारतीय विश्वविद्यालयों के संघ (एआईयू) के सभी सदस्य विश्वविद्यालयों द्वारा मान्यता प्राप्त हैं और यूजीसी परिपत्र पत्र संख्या एफ.1-52 के अनुसार सभी भारतीय विश्वविद्यालयों/संस्थानों के डिग्री/डिप्लोमा/प्रमाण पत्र के बराबर हैं। /2000(CPP-II) दिनांक 5 मई, 2004, AIU परिपत्र सं. EV/11(449/94/176915-177115 दिनांक 14 जनवरी 1994, AICTE परिपत्र संख्या AICTE/अकादमिक/MOU-DEC/ 2005 दिनांक 13 मई , 2005 और यूजीसी/डीईबी/2013 दिनांक 14.10.2013।

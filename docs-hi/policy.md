@@ -1,97 +1,97 @@
-## Prevention of Mal-practive/notice for General Public
+## आम जनता के लिए दुर्भावनापूर्ण/नोटिस की रोकथाम
 
-- Students seeking admission to various academic programmes of Indira Gandhi National Open University are
-  advised to directly contact IGNOU headquarters at New Delhi or Regional Centres of IGNOU only. Students
-  interacting with intermediaries shall do so at their own risk and cost.
+- इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय के विभिन्न शैक्षणिक कार्यक्रमों में प्रवेश पाने के इच्छुक छात्र हैं
+  नई दिल्ली स्थित इग्नू मुख्यालय या केवल इग्नू के क्षेत्रीय केंद्रों से सीधे संपर्क करने की सलाह दी। छात्र
+  बिचौलियों के साथ बातचीत करना अपने जोखिम और लागत पर ऐसा करना होगा।
 
-- However, in case of any specific complaint regarding fraudulent institutions, fleecing students etc., please contact
-  any of the following members of the Malpractices Prevention Committee:
+- तथापि, कपटपूर्ण संस्थाओं, छात्रों को भगाने आदि के संबंध में कोई विशिष्ट शिकायत होने पर कृपया संपर्क करें
+  कदाचार निवारण समिति के निम्नलिखित सदस्यों में से कोई भी:
 
-  1. Director, Research Unit (Tele: 29534336)
-  2. Director, SSC (Tele: 29535714)
-  3. Director, RSD (Tele: 2953 2118, 29572412)
-  4. Registrar, SED (Tele: 2953 5828, 29572204)
-  5. Registrar, SRD (Tele: 2953 2741,9571302)
-  6. Registrar, MPDD (Tele: 29534521,29572002)
-  7. Deputy Registrar, F&A (Tele: 29534934)
-  8. Registrar (SRD) (Tele: 29571302)
+  1. निदेशक, अनुसंधान इकाई (टेलीः 29534336)
+  2. निदेशक, एसएससी (दूरभाष: 29535714)
+  3. निदेशक, आरएसडी (दूरभाष: 2953 2118, 29572412)
+  4. रजिस्ट्रार, एसईडी (टेलीः 2953 5828, 29572204)
+  5. रजिस्ट्रार, एसआरडी (टेलीः 2953 2741,9571302)
+  6. रजिस्ट्रार, एमपीडीडी (टेलीः 29534521,29572002)
+  7. डिप्टी रजिस्ट्रार, एफ एंड ए (टेलीः 29534934)
+  8. रजिस्ट्रार (एसआरडी) (टेलीः 29571302)
 
-  Alternatively, complaints may be faxed on 29532312.
+  वैकल्पिक रूप से, शिकायतें 29532312 पर फैक्स की जा सकती हैं।
 
-- **Email:** registraroffice@ignou.ac.in
+- **ईमेल:** registraroffice@ignou.ac.in
 
-- **Website:** http://www.ignou.ac.in
+- **वेबसाइट:** http://www.ignou.ac.in
 
-- **Note:** Except the above mentioned complaints, no other queries will be entertained at the above phone numbers.
+- **नोट:** उपर्युक्त शिकायतों को छोड़कर, उपरोक्त फोन नंबरों पर किसी अन्य प्रश्न पर विचार नहीं किया जाएगा।
 
-- As per directions of Hon’ble Supreme Court of India ragging is prohibited. If any incident of ragging comes to
-  the notice of the authority the concerned student shall be given liberty to explain and if his explanation is not
-  found satisfactory, authority would expel him from the University.
+- माननीय सर्वोच्च न्यायालय के निर्देशानुसार रैगिंग प्रतिबंधित है। यदि रैगिंग की कोई घटना सामने आती है
+  प्राधिकरण के नोटिस में संबंधित छात्र को समझाने की स्वतंत्रता दी जाएगी और यदि उसका स्पष्टीकरण नहीं है
+  संतोषजनक पाये जाने पर प्राधिकार उसे विश्वविद्यालय से निष्कासित कर देगा।
 
-- IGNOU admissions are made strictly on the basis of merit. Only those learners who satisfy the eligibility criteria
-  fixed by the university will be admitted. Learners will not be admitted if they are not eligibile as per the eligibility
-  criteria. Therefore, the candidates should not be misled by the false promises of admission made by any
-  private in dividuals or institution.
+- इग्नू में सख्ती से मेरिट के आधार पर दाखिले होते हैं। केवल वे शिक्षार्थी जो पात्रता मानदंड को पूरा करते हैं
+  विश्वविद्यालय द्वारा निर्धारित प्रवेश दिया जाएगा। पात्रता के अनुसार पात्र नहीं होने पर शिक्षार्थियों को प्रवेश नहीं दिया जाएगा
+  मानदंड। इसलिए किसी के द्वारा किए गए प्रवेश के झूठे वादों से उम्मीदवारों को गुमराह नहीं किया जाना चाहिए
+  व्यक्तियों या संस्था में निजी।
 
-## Placement Services
+## प्लेसमेंट सेवाएं
 
-In order to further extend learner support services to its geographically distributed student population who
-are pursuing various IT and Non-IT related Degree, Diploma and Masters Programme, the university has
-established the Campus Placement Cell (CPC). The mission and endeavor of CPC is to enhance and facilitate the
-process of prospective suitable employment opportunities that are commensurate with the personal profiles of our
-learners. All students interested in seeking the assistance of CPC for procuring suitable job opportunities are
-requested to send their current resume/biodata to campusplacement@ignou.ac.in. They are further advised to
-visit our home page www.ignou.ac.infor regular updates on placement related activities.
+अपनी भौगोलिक रूप से वितरित छात्र आबादी के लिए शिक्षार्थी सहायता सेवाओं का और विस्तार करने के लिए जो
+विभिन्न आईटी और गैर-आईटी संबंधित डिग्री, डिप्लोमा और परास्नातक कार्यक्रम कर रहे हैं, विश्वविद्यालय के पास है
+कैंपस प्लेसमेंट सेल (सीपीसी) की स्थापना की। सीपीसी का मिशन और प्रयास इसे बढ़ाने और सुविधा प्रदान करना है
+संभावित उपयुक्त रोजगार के अवसरों की प्रक्रिया जो हमारे व्यक्तिगत प्रोफाइल के अनुरूप हैं
+शिक्षार्थी उपयुक्त नौकरी के अवसर प्राप्त करने के लिए सीपीसी की सहायता लेने के इच्छुक सभी छात्र हैं
+अपना वर्तमान बायोडाटा campplacement@ignou.ac.in पर भेजने का अनुरोध किया। उन्हें आगे सलाह दी जाती है कि
+प्लेसमेंट संबंधी गतिविधियों पर नियमित अपडेट के लिए हमारे होम पेज www.ignou.ac.in पर जाएं।
 
-## Equal Oppurtunity Cell
+## समान अवसर प्रकोष्ठ
 
-In order to implement the provisions of the UGC (Promotion of Equity in Higher Education Institutions)
-Regulations, 2012, IGNOU has setup an Equal Opportunity Cell with the objectives of safeguarding the interests of
-all the students without any prejudice to their caste, creed, religion, language, ethnicity, gender and disability so
-that equality is promoted among all the sections of students.
+यूजीसी (उच्च शिक्षा संस्थानों में इक्विटी को बढ़ावा देने) के प्रावधानों को लागू करने के लिए
+विनियम, 2012, इग्नू ने के हितों की रक्षा के उद्देश्यों के साथ एक समान अवसर प्रकोष्ठ की स्थापना की है
+सभी छात्र बिना किसी पूर्वाग्रह के उनकी जाति, पंथ, धर्म, भाषा, जातीयता, लिंग और विकलांगता के लिए
+छात्रों के सभी वर्गों के बीच समानता को बढ़ावा दिया जाता है।
 
-## Grievance Redressal: whom to contact for what
+## शिकायत निवारण: किसके लिए किससे संपर्क करें
 
-IGNOU has a robust mechanism in place for redressal of student grievances. A Special Online Portal - IGNOU Grievance Redress and Management (iGRAM) has been developed for this purpose. Students can
-submit their grievances on iGRAM online and track the response. iGRAM can be accessed at
-http://igram.ignou.ac.in/.
+छात्र शिकायतों के निवारण के लिए इग्नू के पास एक मजबूत तंत्र है। इस उद्देश्य के लिए एक विशेष ऑनलाइन पोर्टल - इग्नू शिकायत निवारण और प्रबंधन (आईग्राम) विकसित किया गया है। छात्र कर सकते हैं
+iGRAM पर अपनी शिकायतें ऑनलाइन जमा करें और प्रतिक्रिया को ट्रैक करें। iGRAM पर पहुँचा जा सकता है
+http://igram.ignou.ac.in/।
 
-A dedicated Student Service Centre has been set up at the HQ to respond to the queries and grievances of
-the students. The Student Service Centre can be contacted at the contact details provided below.
+के प्रश्नों और शिकायतों का जवाब देने के लिए मुख्यालय में एक समर्पित छात्र सेवा केंद्र स्थापित किया गया है
+विद्यार्थी। छात्र सेवा केंद्र से नीचे दिए गए संपर्क विवरण पर संपर्क किया जा सकता है।
 
-> Contact Details of Student Service Centre
+> छात्र सेवा केंद्र का संपर्क विवरण
 
-| Sl. | XYZ                                                                                                                          | Contact Detail                                                       |
-| --- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 1   | General Enquiry (Student Support Services and Student Grievances, pre-admission Inquiry of various Programmes in IGNOU, etc) | Phone: 011-29572514, 29572513, 29572516                              |
-| 2   | Director, SSC, IGNOU, Maidan Garhi, New Delhi – 110068                                                                       | Phone: 011-29572505, Email: directorssc@ignou.ac.in, ssc@ignou.ac.in |
+| क्रमांक | एक्सवाईजेड                                                                                                        | संपर्क विवरण                                                      |
+| ------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 1       | सामान्य पूछताछ (छात्र सहायता सेवाएं और छात्र शिकायतें, इग्नू में विभिन्न कार्यक्रमों की प्रवेश पूर्व पूछताछ, आदि) | फोन: 011-29572514, 29572513, 29572516                             |
+| 2       | निदेशक, एसएससी, इग्नू, मैदान गढ़ी, नई दिल्ली - 110068                                                             | फोन: 011-29572505, ईमेल: Directorssc@ignou.ac.in, ssc@ignou.ac.in |
 
-> For specific queries related to Admission, Study Material, Assignment, Examination, Counselling e.t.c. the students
-> may contact the following:
+> प्रवेश, अध्ययन सामग्री, सत्रीय कार्य, परीक्षा, परामर्श आदि से संबंधित विशिष्ट प्रश्नों के लिए। विद्यार्थी
+> निम्नलिखित से संपर्क कर सकते हैं:
 
-| Sl. | Issues                                                                                                                                 | Authority to be contacted                                                                                                                                         |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Identity Card, Fee Receipt, Bonafide Certificate, Migration, Certificate, Scholarship Forms, change of name, correction ofname/address | Concerned Regional Centre                                                                                                                                         |
-| 2   | Non-receipt of study material and assignments                                                                                          | Registrar (MPDD), IGNOU, Maidan Garhi, New Delhi-110068                                                                                                           |
-| 3   | Change of Elective/Medium/opting of left over electives/ Deletion of excess credits                                                    | Concerned Regional Centre                                                                                                                                         |
-| 4   | Credit Transfer                                                                                                                        | Student Registration Division, Block No. 1 & 3, IGNOU, Maidan Garhi, New Delhi-110068                                                                             |
-| 5   | Purchase of Audio/Video CDs                                                                                                            | Marketing Unit, EMPC, IGNOU, Maidan Garhi, New Delhi-110068                                                                                                       |
-| 6   | Academic Content                                                                                                                       | Director of the School concerned                                                                                                                                  |
-| 7   | Approval of a Project Synopsis                                                                                                         | Project Co-ordinator in the Concerned School                                                                                                                      |
-| 8   | International Students residing in India should contact                                                                                | Director, International Division, IGNOU, Block-15, Section K, Maidan Garhi, New Delhi. Tel. Nos. : 29533987; 29571681, E-mail : internationaldivision@ignou.ac.in |
+| क्रमांक | मुद्दे                                                                                                                  | संपर्क किया जाने वाला प्राधिकरण                                                                                                                              |
+| ------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1       | पहचान पत्र, शुल्क रसीद, वास्तविक प्रमाण पत्र, प्रवासन, प्रमाण पत्र, छात्रवृत्ति प्रपत्र, नाम परिवर्तन, नाम/पता का सुधार | संबंधित क्षेत्रीय केंद्र                                                                                                                                     |
+| 2       | अध्ययन सामग्री और सत्रीय कार्यों की प्राप्ति न होना                                                                     | रजिस्ट्रार (एमपीडीडी), इग्नू, मैदान गढ़ी, नई दिल्ली-110068                                                                                                   |
+| 3       | ऐच्छिक/माध्यम में परिवर्तन/बचे हुए ऐच्छिक को चुनना/अतिरिक्त क्रेडिट को हटाना                                            | संबंधित क्षेत्रीय केंद्र                                                                                                                                     |
+| 4       | क्रेडिट ट्रांसफर                                                                                                        | छात्र पंजीकरण प्रभाग, ब्लॉक नंबर 1 और 3, इग्नू, मैदान गढ़ी, नई दिल्ली-110068                                                                                 |
+| 5       | ऑडियो/वीडियो सीडी की खरीद                                                                                               | मार्केटिंग यूनिट, ईएमपीसी, इग्नू, मैदान गढ़ी, नई दिल्ली-110068                                                                                               |
+| 6       | शैक्षणिक सामग्री                                                                                                        | संबंधित स्कूल के निदेशक                                                                                                                                      |
+| 7       | एक परियोजना सारांश का अनुमोदन                                                                                           | संबंधित स्कूल में परियोजना समन्वयक                                                                                                                           |
+| 8       | भारत में रहने वाले अंतर्राष्ट्रीय छात्रों को संपर्क करना चाहिए                                                          | निदेशक, अंतर्राष्ट्रीय प्रभाग, इग्नू, ब्लॉक-15, खंड के, मैदान गढ़ी, नई दिल्ली। दूरभाष. संख्या: 29533987; 29571681, ई-मेल : Internationaldivision@ignou.ac.in |
 
-> Issue-wise Contacts and Email
+> मुद्दे-वार संपर्क और ईमेल
 
-| Sl. | Issues related                                                                                                                                                                                                                                        | Contact No.                              | Controlling Officer & Telephone No. | E-mail ID                                                            |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------- | -------------------------------------------------------------------- |
-| 1   | Issue of Deree/Diploma/Certificate/ Despatch of returned Degrees/ Verification of Degrees/Convocation                                                                                                                                                 | 011-29572213, 011-29535438               | Asstt. Registrar 011-29572224       | convocation@ignou.ac.in                                              |
-| 2   | Issue of Hall Ticket/ Correction in the hall ticket for handicapped student s/ Non-receipt of hall tickets for term-end- examination & Entrance Test/Entrance, Test Results/Queries related to dispatch of attendance, list of examinees etc./ writer | 011-29572209, 011-29572202               | Asstt. Registrar 011-29535064       | sgoswami@ignou.ac.in, jitenderkr@ignou.ac.in                         |
-| 3   | Declaration of results of Masters & Bachelors degree level programme/Issueof grade card and provisional certificate of Masters and Bachelors degree level prog./ Practical marks of all programmes                                                    | 011-29572212                             | Section Officer 011-29536103        | mdresult@ignou.ac.in, bdresult@ignou.ac.in, practicalsed@ignou.ac.in |
-| 4   | Declaration of results of Masters, Bachelor and Diploma programme/Issue of gradecard and provisional certificate of Masters, Bachelor and Diploma level programme                                                                                     | 011-29572211                             | Section Officer 011-29536743        | bdresult@ignou.ac.in, dpresult@ignou.ac.in                           |
-| 5   | Declaration of results of DPE and Certificate programme/ Issue of grade card and provisional certificate of DPE & Certificate level programme                                                                                                         | 011-29572208                             | Section Officer 011-29536405        | cpresult@ignou.ac.in                                                 |
-| 6   | Verification of genuineness ofprovisional certificate and grade card/ Issue of Transcript                                                                                                                                                             | 011-29572210                             | Section Officer 011-29536405        | gcverification@ignou.ac.in                                           |
-| 7   | Queries related to UFM cases                                                                                                                                                                                                                          | 011-29572208, 011-29576405               | Section Officer                     | ufmgroup@ignou.ac.in                                                 |
-| 8   | Status of Project Report of all Programmes/ Dissertation and Viva marks                                                                                                                                                                               | 011-29571324, 011-29571321               | Asstt.Registrar 011-29532294        | projects@ignou.ac.in                                                 |
-| 9   | Queries related to Assignment Marks                                                                                                                                                                                                                   | 011-29571325, 011-29571319               | Asstt.Registrar 011-29571313        | assignment@ignou.ac.in                                               |
-| 10  | Students general enquiries and grievances/ Issue of duplicate mark sheet                                                                                                                                                                              | 011-29572218, 011-29571313               | Asstt. Registrar                    | sedgrievance@ignou.ac.in                                             |
-| 11  | Discrepancy in grade card, non updationof grade/marks in the grade card etc.                                                                                                                                                                          | 011-29572206, 011-29572215, 011-29572219 | Dy. Director/Asstt.Director         | garora@ignou.ac.in                                                   |
+| क्रमांक | संबंधित मुद्दे                                                                                                                                                                                                                        | संपर्क नंबर                              | नियंत्रण अधिकारी और टेलीफोन नंबर | ई-मेल आईडी                                                          |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------- | ------------------------------------------------------------------- |
+| 1       | डीरी/डिप्लोमा/प्रमाणपत्र जारी करना/ लौटाई गई डिग्रियों का प्रेषण/डिग्री का सत्यापन/दीक्षांत समारोह                                                                                                                                    | 011-29572213, 011-29535438               | सहायक रजिस्ट्रार 011-29572224    | दीक्षांत समारोह@ignou.ac.in                                         |
+| 2       | विकलांग छात्रों के लिए हॉल टिकट जारी करना / हॉल टिकट में सुधार / टर्म-एंड-परीक्षा और प्रवेश परीक्षा / प्रवेश के लिए हॉल टिकट प्राप्त न करना, परीक्षा परिणाम / उपस्थिति के प्रेषण से संबंधित प्रश्न, परीक्षार्थियों की सूची आदि / लेखक | 011-29572209, 011-29572202               | सहायक रजिस्ट्रार 011-29535064    | sgoswami@ignou.ac.in, jitenderkr@ignou.ac.in                        |
+| 3       | मास्टर्स और बैचलर्स डिग्री लेवल प्रोग्राम/ग्रेड कार्ड जारी करने और मास्टर्स और बैचलर्स डिग्री लेवल प्रोग्राम के प्रोविजनल सर्टिफिकेट/सभी प्रोग्राम्स के प्रैक्टिकल मार्क्स के परिणामों की घोषणा                                       | 011-29572212                             | अनुभाग अधिकारी 011-29536103      | mdresult@ignou.ac.in, bdresult@ignou.ac.in, practicesed@ignou.ac.in |
+| 4       | परास्नातक, स्नातक और डिप्लोमा कार्यक्रम / ग्रेडकार्ड जारी करने और परास्नातक, स्नातक और डिप्लोमा स्तर के कार्यक्रम के अनंतिम प्रमाण पत्र के परिणामों की घोषणा                                                                          | 011-29572211                             | अनुभाग अधिकारी 011-29536743      | bdresult@ignou.ac.in, dpresult@ignou.ac.in                          |
+| 5       | डीपीई और सर्टिफिकेट प्रोग्राम/ग्रेड कार्ड जारी करने और डीपीई और सर्टिफिकेट लेवल प्रोग्राम के प्रोविजनल सर्टिफिकेट के परिणामों की घोषणा                                                                                                | 011-29572208                             | अनुभाग अधिकारी 011-29536405      | cpresult@ignou.ac.in                                                |
+| 6       | अनंतिम प्रमाण पत्र और ग्रेड कार्ड / प्रतिलेख जारी करने की वास्तविकता का सत्यापन                                                                                                                                                       | 011-29572210                             | अनुभाग अधिकारी 011-29536405      | gcverification@ignou.ac.in                                          |
+| 7       | यूएफएम मामलों से संबंधित प्रश्न                                                                                                                                                                                                       | 011-29572208, 011-29576405               | अनुभाग अधिकारी                   | ufmgroup@ignou.ac.in                                                |
+| 8       | सभी कार्यक्रमों/निबंध और चिरायु अंकों की परियोजना रिपोर्ट की स्थिति                                                                                                                                                                   | 011-29571324, 011-29571321               | सहायक रजिस्ट्रार 011-29532294    | प्रोजेक्ट्स@ignou.ac.in                                             |
+| 9       | असाइनमेंट मार्क्स से संबंधित प्रश्न                                                                                                                                                                                                   | 011-29571325, 011-29571319               | सहायक रजिस्ट्रार 011-29571313    | असाइनमेंट@ignou.ac.in                                               |
+| 10      | छात्रों की सामान्य पूछताछ और शिकायतें/डुप्लीकेट मार्कशीट जारी करना                                                                                                                                                                    | 011-29572218, 011-29571313               | सहायक रजिस्ट्रार                 | sedgrievance@ignou.ac.in                                            |
+| 11      | ग्रेड कार्ड में विसंगति, ग्रेड कार्ड में ग्रेड/अंकों का अद्यतन न होना आदि                                                                                                                                                             | 011-29572206, 011-29572215, 011-29572219 | उप. निदेशक/सहायक निदेशक          | garora@ignou.ac.in                                                  |
