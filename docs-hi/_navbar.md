@@ -1,4 +1,4 @@
 - Translations
   - [English](/)
   - [हिन्दी](/hi/)
-  - [Desi](/ds/)
+  <!-- - [Desi](/ds/) -->
