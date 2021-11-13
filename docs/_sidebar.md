@@ -3,3 +3,5 @@
 - [Policy and Contact](policy.md)
 - [Addresses and code](codes.md)
 - [Courses and Programmes](programmes.md)
+
+- [Light/Dark Mode](theme.md)
