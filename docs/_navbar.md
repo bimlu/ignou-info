@@ -1,6 +1,4 @@
 - Translations
-  - [:uk: English](/)
-  - [:cn: 中文](/zh-cn/)
-  - [:de: Deutsch](/de-de/)
-  - [:es: Español](/es/)
-  - [:ru: Русский](/ru-ru/)
+  - [English](/)
+  - [हिन्दी](/hi/)
+  - [Desi](/ds/)

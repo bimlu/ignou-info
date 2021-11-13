@@ -69,7 +69,7 @@
     <div id="app">Loading ...</div>
     <script>
       // Set html "lang" attribute based on URL
-      var lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
+      var lang = location.hash.match(/#\/(hi|ds)\//);
 
       if (lang) {
         document.documentElement.setAttribute("lang", lang[1]);
@@ -77,21 +77,15 @@
 
       // Docsify configuration
       window.$docsify = {
-        // alias: {
-        //   ".*?/awesome":
-        //     "https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md",
-        //   ".*?/changelog":
-        //     "https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG.md",
-        //   "/.*/_navbar.md": "/_navbar.md",
-        //   "/es/(.*)":
-        //     "https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1",
-        //   "/de-de/(.*)":
-        //     "https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1",
-        //   "/ru-ru/(.*)":
-        //     "https://raw.githubusercontent.com/docsifyjs/docs-ru/master/$1",
-        //   "/zh-cn/(.*)":
-        //     "https://cdn.jsdelivr.net/gh/docsifyjs/docs-zh@master/$1",
-        // },
+        alias: {
+          ".*?/changelog":
+            "https://raw.githubusercontent.com/bimlu/ignou-info/master/CHANGELOG.md",
+          "/.*/_navbar.md": "/_navbar.md",
+          "/hi/(.*)":
+            "https://raw.githubusercontent.com/bimlu/ignou-info/docs-hi/master/$1",
+          "/ds/(.*)":
+            "https://raw.githubusercontent.com/bimlu/ignou-info/docs-ds/master/$1",
+        },
         auto2top: true,
         coverpage: true,
         executeScript: true,
@@ -108,29 +102,23 @@
         name: "info.ignouwala",
         // repo: "https://github.com/bimlu/ignou-info",
         nameLink: {
-          "/es/": "#/es/",
-          "/de-de/": "#/de-de/",
-          "/ru-ru/": "#/ru-ru/",
-          "/zh-cn/": "#/zh-cn/",
           "/": "#/",
+          "/hi/": "#/hi/",
+          "/ds/": "#/ds/",
         },
         search: {
           noData: {
-            "/es/": "¡No hay resultados!",
-            "/de-de/": "Keine Ergebnisse!",
-            "/ru-ru/": "Никаких результатов!",
-            "/zh-cn/": "没有结果!",
             "/": "No results!",
+            "/hi/": "कोई परिणाम नहीं!",
+            "/ds/": "koee parinaam nahin!",
           },
           paths: "auto",
           placeholder: {
-            "/es/": "Buscar",
-            "/de-de/": "Suche",
-            "/ru-ru/": "Поиск",
-            "/zh-cn/": "搜索",
             "/": "Search",
+            "/hi/": "खोजें",
+            "/ds/": "khojein",
           },
-          pathNamespaces: ["/es", "/de-de", "/ru-ru", "/zh-cn"],
+          pathNamespaces: ["/hi", "/ds"],
         },
         vueComponents: {
           "button-counter": {
